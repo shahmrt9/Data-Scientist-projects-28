@@ -1,0 +1,2027 @@
+,Unnamed: 0,Flight_Name,Departure,Departure_Place,Arrival,Arrival_Destination,Total_Stops,Duration,Price
+0,0,IndiGo,15:10,New Delhi,00:05,Bengaluru,1 stop via Hyderabad,"08 h 55 m
+1 stop via Hyderabad","₹ 5,988"
+1,1,Go First,05:45,New Delhi,08:35,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,107"
+2,2,Vistara,05:35,New Delhi,08:30,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 7,184"
+3,3,IndiGo,19:45,New Delhi,01:10,Bengaluru,1 stop via Hyderabad,"05 h 25 m
+1 stop via Hyderabad","₹ 7,487"
+4,4,IndiGo,05:55,New Delhi,08:45,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+5,5,SpiceJet,06:20,New Delhi,09:10,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,973"
+6,6,SpiceJet,20:30,New Delhi,23:05,Bengaluru,Non stop,"02 h 35 m
+Non stop","₹ 7,973"
+7,7,Air India,06:10,New Delhi,08:55,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,234"
+8,8,Air India,07:30,New Delhi,10:30,Bengaluru,Non stop,"03 h
+Non stop","₹ 8,234"
+9,9,IndiGo,06:10,New Delhi,12:20,Bengaluru,1 stop via Bhopal,"06 h 10 m
+1 stop via Bhopal","₹ 8,237"
+10,10,Akasa Air,11:50,New Delhi,14:35,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,484"
+11,11,IndiGo,11:45,New Delhi,14:40,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 8,580"
+12,12,IndiGo,22:55,New Delhi,01:45,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 8,580"
+13,13,Go First,18:40,New Delhi,21:25,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,683"
+14,14,IndiGo,05:15,New Delhi,10:40,Bengaluru,1 stop via Nagpur,"05 h 25 m
+1 stop via Nagpur","₹ 8,986"
+15,15,IndiGo,04:20,New Delhi,07:15,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 9,389"
+16,16,IndiGo,08:00,New Delhi,11:05,Bengaluru,Non stop,"03 h 05 m
+Non stop","₹ 9,389"
+17,17,IndiGo,10:40,New Delhi,13:30,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+18,18,IndiGo,13:05,New Delhi,15:55,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+19,19,IndiGo,15:40,New Delhi,18:30,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+20,20,IndiGo,21:45,New Delhi,00:35,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+21,21,Air India,14:55,New Delhi,18:20,Bengaluru,Non stop,"03 h 25 m
+Non stop","₹ 9,494"
+22,22,Air India,21:10,New Delhi,00:05,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 9,494"
+23,23,IndiGo,08:10,New Delhi,13:00,Bengaluru,1 stop via Hyderabad,"04 h 50 m
+1 stop via Hyderabad","₹ 9,736"
+24,24,IndiGo,19:20,New Delhi,22:05,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 10,124"
+25,25,IndiGo,20:30,New Delhi,23:25,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 10,124"
+26,26,IndiGo,06:30,New Delhi,13:00,Bengaluru,1 stop via Hyderabad,"06 h 30 m
+1 stop via Hyderabad","₹ 10,486"
+27,27,IndiGo,17:25,New Delhi,20:05,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 10,859"
+28,28,Go First,17:55,New Delhi,00:25,Bengaluru,1 stop via Mumbai,"06 h 30 m
+1 stop via Mumbai","₹ 11,033"
+29,29,Vistara,08:05,New Delhi,10:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+30,30,Vistara,09:05,New Delhi,11:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+31,31,Air India,09:45,New Delhi,12:30,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+32,32,Vistara,14:10,New Delhi,17:00,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 11,069"
+33,33,Vistara,16:05,New Delhi,18:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+34,34,Air India,16:55,New Delhi,20:15,Bengaluru,Non stop,"03 h 20 m
+Non stop","₹ 11,069"
+35,35,Vistara,19:50,New Delhi,22:40,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 11,069"
+36,36,Vistara,20:40,New Delhi,23:20,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 11,069"
+37,37,Go First,17:15,New Delhi,23:30,Bengaluru,1 stop via Ahmedabad,"06 h 15 m
+1 stop via Ahmedabad","₹ 11,076"
+38,38,Vistara,17:30,New Delhi,20:25,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 13,169"
+39,39,AirAsia,07:15,New Delhi,12:10,Bengaluru,1 stop via Lucknow,"04 h 55 m
+1 stop via Lucknow","₹ 13,226"
+40,40,AirAsia,09:35,New Delhi,12:15,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 15,858"
+41,41,AirAsia,16:20,New Delhi,19:05,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 15,858"
+42,42,AirAsia,19:05,New Delhi,21:45,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 15,858"
+43,43,Go First,10:45,New Delhi,15:10,Bengaluru,1 stop via Goa,"04 h 25 m
+1 stop via Goa","₹ 16,349"
+44,44,Air India,13:30,New Delhi,16:25,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 18,345"
+45,0,SpiceJet,06:05,New Delhi,08:55,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 6,713"
+46,1,Go First,05:45,New Delhi,08:30,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,107"
+47,2,Vistara,06:15,New Delhi,09:00,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,184"
+48,3,Vistara,08:10,New Delhi,10:50,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 7,184"
+49,4,IndiGo,08:30,New Delhi,16:30,Bengaluru,1 stop via Shirdi,"08 h
+1 stop via Shirdi","₹ 7,487"
+50,5,IndiGo,02:25,New Delhi,05:15,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+51,6,IndiGo,03:50,New Delhi,06:40,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+52,7,IndiGo,06:55,New Delhi,09:50,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 7,499"
+53,8,IndiGo,22:55,New Delhi,01:45,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+54,9,Akasa Air,11:40,New Delhi,14:25,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,584"
+55,10,AirAsia,19:10,New Delhi,21:55,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,878"
+56,11,IndiGo,06:00,New Delhi,08:35,Bengaluru,Non stop,"02 h 35 m
+Non stop","₹ 7,919"
+57,12,SpiceJet,20:00,New Delhi,22:30,Bengaluru,Non stop,"02 h 30 m
+Non stop","₹ 7,973"
+58,13,Go First,20:45,New Delhi,23:30,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,053"
+59,14,Vistara,16:05,New Delhi,18:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,234"
+60,15,Vistara,19:50,New Delhi,22:40,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 8,234"
+61,16,Vistara,20:40,New Delhi,23:20,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 8,234"
+62,17,IndiGo,05:15,New Delhi,10:15,Bengaluru,1 stop via Nagpur,"05 h
+1 stop via Nagpur","₹ 8,237"
+63,18,IndiGo,06:00,New Delhi,12:10,Bengaluru,1 stop via Bhopal,"06 h 10 m
+1 stop via Bhopal","₹ 8,237"
+64,19,IndiGo,08:20,New Delhi,11:00,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 8,580"
+65,20,IndiGo,20:10,New Delhi,23:00,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 8,580"
+66,21,IndiGo,15:00,New Delhi,21:35,Bengaluru,1 stop via Hyderabad,"06 h 35 m
+1 stop via Hyderabad","₹ 8,986"
+67,22,IndiGo,09:15,New Delhi,11:55,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 9,389"
+68,23,IndiGo,17:15,New Delhi,19:55,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 9,389"
+69,24,Vistara,09:05,New Delhi,11:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 9,494"
+70,25,Vistara,14:15,New Delhi,17:05,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,494"
+71,26,IndiGo,12:45,New Delhi,19:20,Bengaluru,1 stop via Hyderabad,"06 h 35 m
+1 stop via Hyderabad","₹ 9,736"
+72,0,Indigo Air,04:15,Singapore,11:25,New Delhi,1 Stop,09h 40m,₹12432
+73,1,Indigo Air,02:45,Singapore,16:55,New Delhi,1 Stop,16h 40m,₹13322
+74,2,Indigo Air,02:45,Singapore,18:55,New Delhi,1 Stop,18h 40m,₹13322
+75,3,Indigo Air,02:45,Singapore,19:50,New Delhi,1 Stop,19h 35m,₹13322
+76,4,Indigo Air,11:00,Singapore,01:45,New Delhi,1 Stop,17h 15m,₹13842
+77,5,Indigo Air,04:15,Singapore,22:15,New Delhi,1 Stop,20h 30m,₹13842
+78,6,Indigo Air,05:30,Singapore,12:40,New Delhi,1 Stop,09h 4m,₹13843
+79,7,Indigo Air,05:30,Singapore,14:50,New Delhi,1 Stop,11h 5m,₹13843
+80,8,Indigo Air,05:30,Singapore,16:45,New Delhi,1 Stop,13h 4m,₹13843
+81,9,Indigo Air,11:00,Singapore,18:55,New Delhi,1 Stop,10h 25m,₹14392
+82,10,Indigo Air,11:00,Singapore,19:50,New Delhi,1 Stop,11h 20m,₹14392
+83,11,Indigo Air,11:00,Singapore,21:10,New Delhi,1 Stop,12h 40m,₹14392
+84,12,Indigo Air,11:00,Singapore,23:05,New Delhi,1 Stop,14h 35m,₹14393
+85,13,Indigo Air,04:15,Singapore,20:50,New Delhi,1 Stop,19h 05m,₹15082
+86,14,Indigo Air,05:30,Singapore,18:25,New Delhi,1 Stop,15h 25m,₹16582
+87,15,Indigo Air,05:30,Singapore,19:45,New Delhi,1 Stop,16h 45m,₹16582
+88,16,Indigo Air,05:30,Singapore,20:50,New Delhi,1 Stop,17h 50m,₹16582
+89,17,Indigo Air,05:30,Singapore,22:10,New Delhi,1 Stop,19h 10m,₹16582
+90,18,Indigo Air,05:30,Singapore,23:35,New Delhi,1 Stop,20h 35m,₹16582
+91,19,SriLankan,19:50,Singapore,04:10,New Delhi,1 Stop,10h 50m,₹17476
+92,20,SriLankan,19:50,Singapore,17:35,New Delhi,1 Stop,24h 15m,₹17476
+93,21,Indigo Air,04:15,Singapore,13:55,New Delhi,1 Stop,12h 10m,₹18552
+94,22,Air India,23:00,Singapore,02:35,New Delhi,Non Stop,06h 05m,₹18565
+95,23,Jatayu Airlines,11:15,Singapore,00:15,New Delhi,1 Stop,15h 30m,₹20623
+96,24,Jatayu Airlines,14:55,Singapore,22:50,New Delhi,1 Stop,10h 25m,₹20665
+97,25,Multiple Airlines,14:50,Singapore,22:25,New Delhi,1 Stop,10h 05m,₹20902
+98,26,Multiple Airlines,14:30,Singapore,22:25,New Delhi,1 Stop,10h 25m,₹20902
+99,27,Multiple Airlines,12:10,Singapore,22:25,New Delhi,1 Stop,12h 45m,₹20902
+100,28,Multiple Airlines,10:00,Singapore,22:25,New Delhi,1 Stop,14h 55m,₹20902
+101,29,Multiple Airlines,08:55,Singapore,22:25,New Delhi,1 Stop,16h 00m,₹20902
+102,30,Multiple Airlines,07:35,Singapore,22:25,New Delhi,1 Stop,17h 20m,₹20902
+103,31,Multiple Airlines,16:35,Singapore,22:25,New Delhi,1 Stop,08h 20m,₹21496
+104,32,Air India,08:20,Singapore,11:35,New Delhi,Non Stop,05h 45m,₹22640
+105,33,Jatayu Airlines,13:05,Singapore,22:50,New Delhi,1 Stop,12h 15m,₹24111
+106,34,Malindo Air,17:00,Singapore,21:05,New Delhi,1 Stop,30h 35m,₹24649
+107,35,Malindo Air,12:20,Singapore,21:05,New Delhi,1 Stop,11h 15m,₹26383
+108,36,FlexFlight ApS,14:55,Singapore,22:50,New Delhi,1 Stop,10h 2m,₹26186
+109,37,,11:15,Singapore,00:15,New Delhi,1 Stop,15h 30m,₹26849
+110,38,Vietnam Air,13:25,Singapore,10:40,New Delhi,1 Stop,23h 4m,₹26881
+111,39,Hahn Air,11:15,Singapore,00:15,New Delhi,1 Stop,15h 30m,₹27790
+112,40,Malaysia Air,21:20,Singapore,21:50,New Delhi,1 Stop,27h 00m,₹29312
+113,41,Malaysia Air,19:30,Singapore,21:50,New Delhi,1 Stop,28h 50m,₹29312
+114,42,,14:55,Singapore,22:50,New Delhi,1 Stop,10h 25m,₹31394
+115,43,FlexFlight ApS,13:05,Singapore,22:50,New Delhi,1 Stop,12h 1m,₹32466
+116,44,Myanmar Airways,13:45,Singapore,12:40,New Delhi,1 Stop,25h 25m,₹32612
+117,45,Singapore Airl,16:25,Singapore,20:00,New Delhi,Non Stop,06h 05m,₹32859
+118,46,Vistara,09:30,Singapore,12:55,New Delhi,Non Stop,05h 55m,₹34609
+119,47,Hahn Air,13:05,Singapore,22:50,New Delhi,1 Stop,12h 15m,₹33610
+120,48,Malaysia Air,16:35,Singapore,21:50,New Delhi,1 Stop,07h 4m,₹36226
+121,49,Malaysia Air,15:25,Singapore,21:50,New Delhi,1 Stop,08h 5m,₹36226
+122,50,Malaysia Air,13:40,Singapore,21:50,New Delhi,1 Stop,10h 4m,₹36226
+123,51,Malaysia Air,12:55,Singapore,21:50,New Delhi,1 Stop,11h 2m,₹36226
+124,52,Malaysia Air,11:05,Singapore,21:50,New Delhi,1 Stop,13h 1m,₹36226
+125,53,Gulf Air,20:55,Singapore,20:45,New Delhi,1 Stop,26h 20m,₹37062
+126,54,,13:05,Singapore,22:50,New Delhi,1 Stop,12h 15m,₹37259
+127,55,Malaysia Air,10:30,Singapore,21:50,New Delhi,1 Stop,13h 50m,₹41116
+128,56,Thai Intl,12:25,Singapore,23:00,New Delhi,1 Stop,13h 05m,₹44940
+129,57,Thai Intl,12:25,Singapore,02:20,New Delhi,1 Stop,16h 25m,₹44940
+130,58,Thai Intl,12:25,Singapore,09:55,New Delhi,1 Stop,24h 00m,₹46535
+131,59,Air India,19:45,Singapore,09:15,New Delhi,1 Stop,16h 00m,₹50740
+132,60,Air India,19:45,Singapore,10:15,New Delhi,1 Stop,17h 00m,₹50740
+133,61,Air India,19:45,Singapore,11:10,New Delhi,2 Stop,17h 55m,₹50740
+134,62,Air India,19:45,Singapore,11:20,New Delhi,1 Stop,18h 05m,₹50740
+135,63,Air India,19:45,Singapore,11:10,New Delhi,1 Stop,17h 5m,₹50740
+136,64,Singapore Airl,02:25,Singapore,05:55,New Delhi,Non Stop,06h 00m,₹52665
+137,65,Etihad Airways,19:25,Singapore,19:20,New Delhi,1 Stop,26h 25m,₹54337
+138,66,Air India,08:50,Singapore,19:50,New Delhi,1 Stop,13h 30m,₹57140
+139,67,Qatar Airways,10:55,Singapore,02:05,New Delhi,1 Stop,17h 40m,₹58416
+140,68,Multiple Airlines,17:25,Singapore,09:15,New Delhi,2 Stop,18h 20m,₹58802
+141,69,Multiple Airlines,17:25,Singapore,10:15,New Delhi,2 Stop,19h 20m,₹58802
+142,70,Multiple Airlines,17:25,Singapore,11:20,New Delhi,2 Stop,20h 25m,₹58802
+143,71,Multiple Airlines,17:25,Singapore,12:15,New Delhi,2 Stop,21h 20m,₹58802
+144,72,Multiple Airlines,17:25,Singapore,15:15,New Delhi,2 Stop,24h 20m,₹58802
+145,73,Multiple Airlines,11:05,Singapore,09:15,New Delhi,2 Stop,24h 40m,₹58802
+146,74,Multiple Airlines,11:05,Singapore,10:15,New Delhi,2 Stop,25h 40m,₹58802
+147,75,Multiple Airlines,11:05,Singapore,11:20,New Delhi,2 Stop,26h 45m,₹58802
+148,76,Multiple Airlines,17:25,Singapore,17:55,New Delhi,2 Stop,27h 00m,₹58802
+149,77,Multiple Airlines,11:05,Singapore,12:15,New Delhi,2 Stop,27h 40m,₹58802
+150,78,Qatar Airways,10:55,Singapore,08:25,New Delhi,1 Stop,24h 00m,₹58714
+151,79,Thai Intl,21:00,Singapore,02:20,New Delhi,1 Stop,07h 50m,₹59080
+152,80,Multiple Airlines,13:40,Singapore,09:15,New Delhi,2 Stop,22h 0m,₹58802
+153,81,Multiple Airlines,12:55,Singapore,09:15,New Delhi,2 Stop,22h 5m,₹58802
+154,82,Multiple Airlines,13:40,Singapore,10:15,New Delhi,2 Stop,23h 0m,₹58802
+155,83,Multiple Airlines,12:55,Singapore,10:15,New Delhi,2 Stop,23h 5m,₹58802
+156,84,Multiple Airlines,13:40,Singapore,11:20,New Delhi,2 Stop,24h 1m,₹58802
+157,85,Multiple Airlines,12:55,Singapore,11:20,New Delhi,2 Stop,24h 5m,₹58802
+158,86,Multiple Airlines,13:40,Singapore,12:15,New Delhi,2 Stop,25h 0m,₹58802
+159,87,Multiple Airlines,10:30,Singapore,09:15,New Delhi,2 Stop,25h 1m,₹58802
+160,88,Emirates,10:10,Singapore,19:55,New Delhi,1 Stop,12h 15m,₹61203
+161,89,Emirates,21:00,Singapore,08:50,New Delhi,1 Stop,14h 20m,₹61203
+162,90,Emirates,21:00,Singapore,08:55,New Delhi,1 Stop,14h 25m,₹61203
+163,91,Emirates,10:10,Singapore,02:40,New Delhi,1 Stop,19h 00m,₹61203
+164,92,Emirates,00:30,Singapore,19:55,New Delhi,1 Stop,21h 55m,₹61203
+165,93,Emirates,10:10,Singapore,08:50,New Delhi,1 Stop,25h 10m,₹61203
+166,94,Emirates,10:10,Singapore,08:55,New Delhi,1 Stop,25h 15m,₹61203
+167,95,Emirates,21:00,Singapore,19:55,New Delhi,1 Stop,25h 25m,₹61203
+168,96,Emirates,00:30,Singapore,02:40,New Delhi,1 Stop,28h 40m,₹61203
+169,97,Emirates,21:00,Singapore,02:40,New Delhi,1 Stop,32h 10m,₹61203
+170,98,Qatar Airways,20:25,Singapore,08:25,New Delhi,1 Stop,14h 30m,₹66796
+171,99,Qatar Airways,02:00,Singapore,02:05,New Delhi,1 Stop,26h 35m,₹67094
+172,100,Qatar Airways,20:25,Singapore,02:05,New Delhi,1 Stop,32h 10m,₹67094
+173,101,Qatar Airways,02:00,Singapore,08:25,New Delhi,1 Stop,32h 55m,₹67094
+174,102,Emirates,00:30,Singapore,14:40,New Delhi,1 Stop,16h 40m,₹68593
+175,103,Emirates,21:00,Singapore,14:40,New Delhi,1 Stop,20h 10m,₹68593
+176,104,Emirates,00:30,Singapore,08:50,New Delhi,1 Stop,34h 50m,₹68593
+177,105,Vistara,10:30,Singapore,18:05,New Delhi,1 Stop,10h 05m,₹72849
+178,106,Vistara,10:30,Singapore,20:40,New Delhi,1 Stop,12h 40m,₹72849
+179,107,Vistara,10:30,Singapore,21:55,New Delhi,1 Stop,13h 55m,₹72849
+180,108,Vistara,10:30,Singapore,23:00,New Delhi,1 Stop,15h 00m,₹72849
+181,109,Vistara,10:30,Singapore,00:10,New Delhi,1 Stop,16h 10m,₹72849
+182,110,Vistara,10:30,Singapore,00:55,New Delhi,1 Stop,16h 55m,₹72849
+183,111,Vistara,10:30,Singapore,08:20,New Delhi,2 Stop,24h 20m,₹73214
+184,112,Vistara,10:30,Singapore,19:45,New Delhi,1 Stop,11h 45m,₹73084
+185,113,Vistara,10:30,Singapore,08:05,New Delhi,1 Stop,24h 0m,₹72849
+186,114,Qatar Airways,21:20,Singapore,02:05,New Delhi,2 Stop,31h 15m,₹76016
+187,115,Asiana Airlines,23:15,Singapore,20:00,New Delhi,1 Stop,23h 15m,₹77661
+188,116,Asiana Airlines,22:10,Singapore,20:00,New Delhi,1 Stop,24h 20m,₹77661
+189,117,Turkish Airlines,23:35,Singapore,23:10,New Delhi,1 Stop,26h 05m,₹87637
+190,118,Multiple Airlines,22:10,Singapore,04:10,New Delhi,1 Stop,08h 30m,₹125261
+191,119,Multiple Airlines,19:50,Singapore,06:00,New Delhi,1 Stop,12h 40m,₹135251
+192,120,Multiple Airlines,15:05,Singapore,21:50,New Delhi,1 Stop,09h 15m,₹159721
+193,121,Multiple Airlines,12:50,Singapore,21:50,New Delhi,1 Stop,11h 30m,₹159721
+194,122,Multiple Airlines,07:10,Singapore,21:50,New Delhi,1 Stop,05h 30m,₹160548
+195,123,Multiple Airlines,08:30,Singapore,21:50,New Delhi,1 Stop,05h 30m,₹160548
+196,124,Multiple Airlines,09:20,Singapore,21:50,New Delhi,1 Stop,05h 30m,₹160548
+197,125,British Airways,20:25,Singapore,01:15,New Delhi,2 Stop,31h 20m,₹182919
+198,126,British Airways,20:25,Singapore,01:15,New Delhi,2 Stop,31h 20m,₹184211
+199,127,British Airways,23:05,Singapore,01:15,New Delhi,1 Stop,28h 40m,₹189429
+200,128,Biman Bangladesh,15:50,Singapore,14:15,New Delhi,1 Stop,24h 55m,₹214854
+201,129,Swiss intl,01:30,Singapore,00:45,New Delhi,1 Stop,25h 45m,₹280172
+202,130,Lufthansa,00:25,Singapore,00:10,New Delhi,1 Stop,26h 15m,₹283279
+203,131,Multiple Airlines,23:05,Singapore,22:35,New Delhi,1 Stop,26h 00m,₹360855
+204,132,All Nippon,22:45,Singapore,17:15,New Delhi,1 Stop,21h 00m,₹439261
+205,133,All Nippon,22:20,Singapore,17:15,New Delhi,1 Stop,21h 25m,₹439261
+206,134,Multiple Airlines,22:45,Singapore,17:15,New Delhi,1 Stop,10h 30m,₹531226
+207,0,Spice Jet,00:50,Hyderabad,03:15,New Delhi,Non Stop,02h 25m,₹7732
+208,1,Air Asia,15:15,Hyderabad,23:10,New Delhi,1 Stop,07h 55m,₹6445
+209,2,Air Asia,14:30,Hyderabad,23:10,New Delhi,1 Stop,08h 40m,₹6445
+210,3,Air Asia,09:20,Hyderabad,23:10,New Delhi,1 Stop,13h 50m,₹6445
+211,4,Spice Jet,06:10,Hyderabad,08:25,New Delhi,Non Stop,02h 15m,₹7732
+212,5,Vistara,07:00,Hyderabad,09:00,New Delhi,Non Stop,02h 00m,₹7733
+213,6,Vistara,13:25,Hyderabad,15:35,New Delhi,Non Stop,02h 10m,₹7733
+214,7,Vistara,17:40,Hyderabad,19:55,New Delhi,Non Stop,02h 15m,₹7733
+215,8,Vistara,20:30,Hyderabad,22:45,New Delhi,Non Stop,02h 15m,₹7733
+216,9,Vistara,10:10,Hyderabad,12:30,New Delhi,Non Stop,02h 20m,₹7733
+217,10,Air India,06:40,Hyderabad,08:55,New Delhi,Non Stop,02h 15m,₹7733
+218,11,Air India,10:05,Hyderabad,12:20,New Delhi,Non Stop,02h 15m,₹7733
+219,12,Air India,16:10,Hyderabad,18:30,New Delhi,Non Stop,02h 20m,₹7733
+220,13,Indigo Air,05:10,Hyderabad,07:15,New Delhi,Non Stop,02h 05m,₹7732
+221,14,Indigo Air,07:05,Hyderabad,09:15,New Delhi,Non Stop,02h 10m,₹7732
+222,15,Indigo Air,21:20,Hyderabad,23:30,New Delhi,Non Stop,02h 10m,₹7732
+223,16,Indigo Air,22:35,Hyderabad,00:45,New Delhi,Non Stop,02h 10m,₹7732
+224,17,Indigo Air,20:05,Hyderabad,22:20,New Delhi,Non Stop,02h 15m,₹7732
+225,18,Indigo Air,18:20,Hyderabad,20:50,New Delhi,Non Stop,02h 30m,₹7732
+226,19,Air India,20:40,Hyderabad,23:00,New Delhi,Non Stop,02h 20m,₹7733
+227,20,Indigo Air,16:25,Hyderabad,18:35,New Delhi,Non Stop,02h 10m,₹7732
+228,21,Indigo Air,01:20,Hyderabad,03:35,New Delhi,Non Stop,02h 15m,₹7732
+229,22,Indigo Air,09:55,Hyderabad,12:10,New Delhi,Non Stop,02h 15m,₹7732
+230,23,Indigo Air,11:40,Hyderabad,13:55,New Delhi,Non Stop,02h 15m,₹7732
+231,24,Indigo Air,14:00,Hyderabad,16:15,New Delhi,Non Stop,02h 15m,₹7732
+232,25,Air Asia,18:00,Hyderabad,01:50,New Delhi,1 Stop,07h 50m,₹7811
+233,26,Air Asia,16:35,Hyderabad,01:50,New Delhi,1 Stop,09h 15m,₹8800
+234,27,Alliance Air,11:20,Hyderabad,17:30,New Delhi,2 Stop,06h 1m,₹8416
+235,28,Alliance Air,11:20,Hyderabad,17:30,New Delhi,Non Stop,06h 10m,₹8445.5
+236,29,Air Asia,20:20,Hyderabad,01:20,New Delhi,1 Stop,05h 00m,₹9509
+237,30,Air Asia,21:55,Hyderabad,08:55,New Delhi,1 Stop,11h 00m,₹9509
+238,31,Air Asia,21:10,Hyderabad,08:55,New Delhi,1 Stop,11h 45m,₹9509
+239,32,Air Asia,20:20,Hyderabad,08:55,New Delhi,1 Stop,12h 35m,₹9509
+240,33,Indigo Air,20:45,Hyderabad,02:00,New Delhi,1 Stop,05h 15m,₹9537
+241,34,Vistara,07:30,Hyderabad,12:40,New Delhi,1 Stop,05h 10m,₹9588
+242,35,Vistara,18:25,Hyderabad,23:45,New Delhi,1 Stop,05h 20m,₹9588
+243,36,Vistara,07:30,Hyderabad,14:20,New Delhi,1 Stop,06h 50m,₹9588
+244,37,Vistara,07:30,Hyderabad,20:20,New Delhi,1 Stop,12h 50m,₹9588
+245,38,Vistara,07:30,Hyderabad,21:25,New Delhi,1 Stop,13h 55m,₹9588
+246,39,Vistara,07:30,Hyderabad,22:20,New Delhi,1 Stop,14h 50m,₹9588
+247,40,Vistara,18:25,Hyderabad,09:40,New Delhi,1 Stop,15h 15m,₹9588
+248,41,Vistara,07:30,Hyderabad,23:45,New Delhi,1 Stop,16h 15m,₹9588
+249,42,Vistara,07:30,Hyderabad,09:40,New Delhi,1 Stop,26h 10m,₹9588
+250,43,Vistara,18:25,Hyderabad,21:25,New Delhi,1 Stop,27h 00m,₹9588
+251,44,Indigo Air,18:00,Hyderabad,00:40,New Delhi,1 Stop,06h 40m,₹9386
+252,45,Indigo Air,17:05,Hyderabad,22:45,New Delhi,1 Stop,05h 40m,₹9386
+253,46,Vistara,18:25,Hyderabad,10:40,New Delhi,1 Stop,16h 15m,₹10114
+254,47,Vistara,18:25,Hyderabad,20:20,New Delhi,1 Stop,25h 55m,₹10114
+255,48,Vistara,07:30,Hyderabad,10:40,New Delhi,1 Stop,27h 10m,₹10114
+256,49,Indigo Air,18:10,Hyderabad,00:45,New Delhi,1 Stop,06h 35m,₹9925
+257,50,Indigo Air,15:50,Hyderabad,21:45,New Delhi,1 Stop,05h 55m,₹9937
+258,51,Indigo Air,18:10,Hyderabad,23:15,New Delhi,1 Stop,05h 05m,₹10470
+259,52,Vistara,18:25,Hyderabad,14:10,New Delhi,1 Stop,19h 45m,₹10954
+260,53,Vistara,07:10,Hyderabad,21:55,New Delhi,1 Stop,14h 45m,₹10777
+261,54,Vistara,07:10,Hyderabad,23:00,New Delhi,1 Stop,15h 50m,₹10777
+262,55,Vistara,07:10,Hyderabad,00:10,New Delhi,1 Stop,17h 00m,₹10777
+263,56,Vistara,07:10,Hyderabad,01:00,New Delhi,1 Stop,17h 50m,₹10777
+264,57,Vistara,07:10,Hyderabad,08:35,New Delhi,1 Stop,25h 25m,₹10777
+265,58,Indigo Air,04:15,Hyderabad,10:40,New Delhi,1 Stop,06h 25m,₹10390
+266,59,Indigo Air,08:10,Hyderabad,14:45,New Delhi,1 Stop,06h 35m,₹10649
+267,60,Indigo Air,18:55,Hyderabad,00:05,New Delhi,1 Stop,05h 10m,₹10747
+268,61,Vistara,07:10,Hyderabad,22:00,New Delhi,2 Stop,38h 50m,₹11857
+269,62,Indigo Air,15:25,Hyderabad,20:55,New Delhi,1 Stop,05h 30m,₹11310
+270,63,Air India,08:10,Hyderabad,15:15,New Delhi,1 Stop,07h 05m,₹12458
+271,64,Air Asia,14:20,Hyderabad,01:20,New Delhi,1 Stop,11h 00m,₹11610
+272,65,Vistara,07:10,Hyderabad,12:40,New Delhi,1 Stop,05h 30m,₹12457
+273,66,Vistara,07:10,Hyderabad,14:05,New Delhi,1 Stop,06h 55m,₹12457
+274,67,Vistara,07:10,Hyderabad,16:55,New Delhi,1 Stop,09h 45m,₹12457
+275,68,Vistara,07:10,Hyderabad,18:05,New Delhi,1 Stop,10h 55m,₹12457
+276,69,Vistara,07:10,Hyderabad,19:40,New Delhi,1 Stop,12h 30m,₹12457
+277,70,Vistara,07:10,Hyderabad,20:40,New Delhi,1 Stop,13h 30m,₹12457
+278,71,Vistara,07:10,Hyderabad,22:00,New Delhi,2 Stop,38h 50m,₹12298
+279,72,Vistara,07:10,Hyderabad,22:00,New Delhi,2 Stop,38h 50m,₹12298
+280,73,Indigo Air,13:40,Hyderabad,19:40,New Delhi,1 Stop,06h 00m,₹11310
+281,74,Indigo Air,06:45,Hyderabad,11:40,New Delhi,1 Stop,04h 55m,₹12300
+282,75,Indigo Air,06:45,Hyderabad,12:20,New Delhi,1 Stop,05h 35m,₹12300
+283,76,Indigo Air,04:15,Hyderabad,09:55,New Delhi,1 Stop,05h 40m,₹12300
+284,77,Air India,08:10,Hyderabad,18:20,New Delhi,1 Stop,10h 10m,₹12458
+285,78,Air India,08:10,Hyderabad,19:10,New Delhi,1 Stop,11h 00m,₹12458
+286,79,Air India,08:10,Hyderabad,20:10,New Delhi,1 Stop,12h 00m,₹12458
+287,80,Air India,08:10,Hyderabad,21:15,New Delhi,1 Stop,13h 05m,₹12458
+288,81,Air India,08:10,Hyderabad,09:15,New Delhi,1 Stop,25h 05m,₹12458
+289,82,Indigo Air,16:40,Hyderabad,23:15,New Delhi,1 Stop,06h 35m,₹11400
+290,83,Air India,08:10,Hyderabad,23:15,New Delhi,1 Stop,15h 05m,₹12458
+291,84,Air India,08:10,Hyderabad,10:15,New Delhi,1 Stop,26h 05m,₹12458
+292,85,Air India,08:10,Hyderabad,11:20,New Delhi,1 Stop,27h 10m,₹12458
+293,86,Indigo Air,08:10,Hyderabad,14:10,New Delhi,1 Stop,06h 00m,₹12352
+294,87,Indigo Air,16:40,Hyderabad,22:00,New Delhi,1 Stop,05h 20m,₹11945
+295,88,Vistara,07:10,Hyderabad,21:25,New Delhi,2 Stop,14h 15m,₹12436
+296,89,Vistara,07:10,Hyderabad,22:20,New Delhi,2 Stop,15h 10m,₹12436
+297,90,Vistara,07:10,Hyderabad,23:45,New Delhi,2 Stop,16h 35m,₹12436
+298,91,Air India,08:10,Hyderabad,11:10,New Delhi,1 Stop,27h 00m,₹12458
+299,92,Indigo Air,13:50,Hyderabad,19:25,New Delhi,1 Stop,05h 35m,₹12693
+300,93,Air India,22:25,Hyderabad,22:55,New Delhi,1 Stop,24h 30m,₹12458
+301,94,Indigo Air,04:25,Hyderabad,10:20,New Delhi,1 Stop,05h 55m,₹14400
+302,95,Vistara,07:10,Hyderabad,14:20,New Delhi,1 Stop,07h 10m,₹13717
+303,96,Vistara,07:10,Hyderabad,09:40,New Delhi,1 Stop,26h 30m,₹13347
+304,97,Vistara,11:35,Hyderabad,19:50,New Delhi,1 Stop,08h 15m,₹13506
+305,98,Indigo Air,20:25,Hyderabad,01:55,New Delhi,1 Stop,05h 30m,₹13455
+306,99,Spice Jet,06:20,Hyderabad,14:25,New Delhi,1 Stop,08h 05m,₹13550
+307,100,Air India,22:25,Hyderabad,09:15,New Delhi,1 Stop,10h 50m,₹13928
+308,101,Air India,22:25,Hyderabad,10:15,New Delhi,1 Stop,11h 50m,₹13928
+309,102,Air India,22:25,Hyderabad,11:20,New Delhi,1 Stop,12h 55m,₹13928
+310,103,Air India,22:25,Hyderabad,20:20,New Delhi,1 Stop,21h 55m,₹13928
+311,104,Vistara,07:10,Hyderabad,10:25,New Delhi,2 Stop,27h 15m,₹14377
+312,105,Air India,22:25,Hyderabad,11:10,New Delhi,2 Stop,12h 45m,₹13928
+313,106,Air India,22:25,Hyderabad,11:10,New Delhi,1 Stop,12h 45m,₹13928
+314,107,Air India,22:25,Hyderabad,21:20,New Delhi,1 Stop,22h 55m,₹13928
+315,108,Spice Jet,10:10,Hyderabad,19:20,New Delhi,1 Stop,09h 10m,₹14714
+316,109,Vistara,07:10,Hyderabad,10:25,New Delhi,2 Stop,27h 15m,₹14818
+317,110,Vistara,07:10,Hyderabad,10:25,New Delhi,2 Stop,27h 15m,₹14818
+318,111,Indigo Air,03:05,Hyderabad,09:15,New Delhi,1 Stop,06h 10m,₹14347
+319,112,Spice Jet,21:15,Hyderabad,08:15,New Delhi,1 Stop,11h 00m,₹16133
+320,113,Vistara,07:10,Hyderabad,08:20,New Delhi,2 Stop,25h 10m,₹15217
+321,114,Air India,13:15,Hyderabad,09:15,New Delhi,1 Stop,20h 00m,₹14558
+322,115,Air India,13:15,Hyderabad,10:15,New Delhi,1 Stop,21h 00m,₹14558
+323,116,Indigo Air,10:00,Hyderabad,16:35,New Delhi,1 Stop,06h 35m,₹14610
+324,117,Indigo Air,05:45,Hyderabad,11:30,New Delhi,1 Stop,05h 45m,₹15621
+325,118,Indigo Air,09:25,Hyderabad,15:55,New Delhi,1 Stop,06h 30m,₹14679
+326,119,Indigo Air,10:05,Hyderabad,16:20,New Delhi,1 Stop,06h 15m,₹15397
+327,120,Vistara,07:10,Hyderabad,08:20,New Delhi,2 Stop,25h 10m,₹15658
+328,121,Vistara,12:55,Hyderabad,01:00,New Delhi,1 Stop,12h 05m,₹15509
+329,122,Air India,22:25,Hyderabad,12:15,New Delhi,1 Stop,13h 50m,₹15188
+330,123,Air India,22:25,Hyderabad,15:15,New Delhi,1 Stop,16h 50m,₹15188
+331,124,Air India,22:25,Hyderabad,17:55,New Delhi,1 Stop,19h 30m,₹15188
+332,125,Air India,13:15,Hyderabad,18:20,New Delhi,1 Stop,05h 05m,₹16028
+333,126,Air India,13:15,Hyderabad,19:10,New Delhi,1 Stop,05h 55m,₹16028
+334,127,Air India,13:15,Hyderabad,20:10,New Delhi,1 Stop,06h 55m,₹16028
+335,128,Air India,13:15,Hyderabad,21:15,New Delhi,1 Stop,08h 00m,₹16028
+336,129,Air India,13:15,Hyderabad,23:15,New Delhi,1 Stop,10h 00m,₹16028
+337,130,Vistara,12:55,Hyderabad,00:10,New Delhi,1 Stop,11h 15m,₹15818
+338,131,Vistara,07:30,Hyderabad,19:50,New Delhi,2 Stop,12h 20m,₹16057
+339,132,Indigo Air,15:00,Hyderabad,21:25,New Delhi,1 Stop,06h 25m,₹15450
+340,133,Vistara,12:55,Hyderabad,18:05,New Delhi,1 Stop,05h 10m,₹16868
+341,134,Vistara,12:55,Hyderabad,22:00,New Delhi,2 Stop,33h 05m,₹16480
+342,135,Vistara,12:55,Hyderabad,22:00,New Delhi,2 Stop,33h 05m,₹16480
+343,136,Vistara,12:55,Hyderabad,19:40,New Delhi,1 Stop,06h 45m,₹16868
+344,137,Vistara,12:55,Hyderabad,20:40,New Delhi,1 Stop,07h 45m,₹16868
+345,138,Vistara,12:55,Hyderabad,21:55,New Delhi,1 Stop,09h 00m,₹16868
+346,139,Vistara,12:55,Hyderabad,23:00,New Delhi,1 Stop,10h 05m,₹16868
+347,140,Indigo Air,14:25,Hyderabad,20:00,New Delhi,1 Stop,05h 35m,₹16678
+348,141,Indigo Air,11:00,Hyderabad,16:35,New Delhi,1 Stop,05h 35m,₹16447
+349,142,Spice Jet,21:15,Hyderabad,19:50,New Delhi,1 Stop,22h 35m,₹16343
+350,143,Vistara,07:10,Hyderabad,23:45,New Delhi,2 Stop,16h 35m,₹16621
+351,144,Vistara,07:10,Hyderabad,09:40,New Delhi,2 Stop,26h 30m,₹16621
+352,145,Vistara,07:10,Hyderabad,09:40,New Delhi,2 Stop,26h 30m,₹16621
+353,146,Vistara,07:10,Hyderabad,09:40,New Delhi,2 Stop,26h 30m,₹16621
+354,147,Vistara,07:10,Hyderabad,09:40,New Delhi,2 Stop,26h 30m,₹16621
+355,148,Vistara,07:10,Hyderabad,20:20,New Delhi,2 Stop,37h 10m,₹16621
+356,149,Vistara,07:10,Hyderabad,20:20,New Delhi,2 Stop,37h 10m,₹16621
+357,150,Vistara,07:10,Hyderabad,20:20,New Delhi,2 Stop,37h 10m,₹16621
+358,151,Vistara,07:10,Hyderabad,20:20,New Delhi,2 Stop,37h 10m,₹16621
+359,152,Vistara,07:10,Hyderabad,20:20,New Delhi,2 Stop,37h 10m,₹16621
+360,153,Vistara,07:10,Hyderabad,22:25,New Delhi,2 Stop,39h 15m,₹16621
+361,154,Vistara,07:10,Hyderabad,22:25,New Delhi,2 Stop,39h 15m,₹16621
+362,155,Vistara,07:10,Hyderabad,22:25,New Delhi,2 Stop,39h 15m,₹16621
+363,156,Vistara,07:10,Hyderabad,23:45,New Delhi,2 Stop,40h 35m,₹16621
+364,157,Vistara,11:35,Hyderabad,16:30,New Delhi,1 Stop,04h 55m,₹17181
+365,158,Indigo Air,11:10,Hyderabad,17:35,New Delhi,1 Stop,06h 25m,₹16500
+366,159,Indigo Air,08:30,Hyderabad,14:30,New Delhi,1 Stop,06h 00m,₹16859
+367,160,Air Asia,20:20,Hyderabad,08:55,New Delhi,2 Stop,12h 35m,₹17049
+368,161,Air Asia,20:20,Hyderabad,08:55,New Delhi,1 Stop,12h 35m,₹17049
+369,162,Indigo Air,13:20,Hyderabad,19:25,New Delhi,1 Stop,06h 05m,₹17345
+370,163,Indigo Air,16:20,Hyderabad,22:25,New Delhi,1 Stop,06h 05m,₹18180
+371,164,Indigo Air,18:25,Hyderabad,23:00,New Delhi,1 Stop,04h 35m,₹19177
+372,165,Indigo Air,16:20,Hyderabad,21:45,New Delhi,1 Stop,05h 25m,₹17602
+373,166,Indigo Air,19:35,Hyderabad,01:40,New Delhi,1 Stop,06h 05m,₹18547
+374,167,Vistara,07:30,Hyderabad,16:30,New Delhi,2 Stop,09h 00m,₹18682
+375,168,Indigo Air,17:50,Hyderabad,22:55,New Delhi,1 Stop,05h 05m,₹18547
+376,169,Air India,05:55,Hyderabad,17:55,New Delhi,1 Stop,12h 00m,₹18338
+377,170,Vistara,08:30,Hyderabad,01:00,New Delhi,1 Stop,16h 30m,₹19604
+378,171,Vistara,12:55,Hyderabad,10:25,New Delhi,2 Stop,21h 30m,₹19840
+379,172,Vistara,08:30,Hyderabad,00:10,New Delhi,1 Stop,15h 40m,₹19913
+380,173,Indigo Air,12:40,Hyderabad,18:00,New Delhi,1 Stop,05h 20m,₹19755
+381,174,Vistara,08:30,Hyderabad,19:40,New Delhi,1 Stop,11h 10m,₹20963
+382,175,Vistara,08:30,Hyderabad,20:40,New Delhi,1 Stop,12h 10m,₹20963
+383,176,Vistara,08:30,Hyderabad,21:55,New Delhi,1 Stop,13h 25m,₹20963
+384,177,Vistara,08:30,Hyderabad,23:00,New Delhi,1 Stop,14h 30m,₹20963
+385,178,Air India,05:55,Hyderabad,13:00,New Delhi,1 Stop,07h 05m,₹20438
+386,179,Vistara,08:30,Hyderabad,14:05,New Delhi,1 Stop,05h 35m,₹20963
+387,180,Vistara,08:30,Hyderabad,16:55,New Delhi,1 Stop,08h 25m,₹20963
+388,181,Vistara,08:30,Hyderabad,18:05,New Delhi,1 Stop,09h 3m,₹20963
+389,182,Vistara,08:30,Hyderabad,14:20,New Delhi,1 Stop,05h 50m,₹22223
+390,183,Vistara,21:35,Hyderabad,14:20,New Delhi,1 Stop,16h 45m,₹22754
+391,184,Vistara,21:35,Hyderabad,18:05,New Delhi,1 Stop,20h 30m,₹22754
+392,185,Vistara,21:35,Hyderabad,12:40,New Delhi,1 Stop,15h 05m,₹23063
+393,186,Vistara,21:35,Hyderabad,14:05,New Delhi,1 Stop,16h 30m,₹23063
+394,187,Vistara,21:35,Hyderabad,19:45,New Delhi,1 Stop,22h 10m,₹23063
+395,188,Vistara,21:35,Hyderabad,08:35,New Delhi,1 Stop,11h 00m,₹24113
+396,189,Vistara,21:35,Hyderabad,09:40,New Delhi,1 Stop,12h 05m,₹24113
+397,190,Vistara,21:35,Hyderabad,11:00,New Delhi,1 Stop,13h 25m,₹24113
+398,191,Vistara,07:10,Hyderabad,19:50,New Delhi,2 Stop,36h 40m,₹23598
+399,192,Vistara,12:55,Hyderabad,08:20,New Delhi,2 Stop,19h 25m,₹23626
+400,193,Vistara,12:55,Hyderabad,08:20,New Delhi,2 Stop,19h 25m,₹23626
+401,194,Vistara,12:55,Hyderabad,10:25,New Delhi,2 Stop,21h 30m,₹23626
+402,195,Vistara,12:55,Hyderabad,10:25,New Delhi,2 Stop,21h 30m,₹23626
+403,196,Indigo Air,11:00,Hyderabad,17:30,New Delhi,1 Stop,06h 30m,₹23113
+404,197,Indigo Air,11:25,Hyderabad,16:10,New Delhi,1 Stop,04h 45m,₹23167
+405,198,Indigo Air,09:20,Hyderabad,14:00,New Delhi,1 Stop,04h 40m,₹23325
+406,199,Vistara,21:35,Hyderabad,16:55,New Delhi,1 Stop,19h 20m,₹24113
+407,200,Air India,05:55,Hyderabad,22:35,New Delhi,1 Stop,16h 40m,₹24113
+408,201,Air India,05:55,Hyderabad,09:15,New Delhi,1 Stop,27h 20m,₹24113
+409,202,Vistara,07:10,Hyderabad,09:35,New Delhi,2 Stop,26h 25m,₹27964
+410,203,Vistara,07:10,Hyderabad,16:30,New Delhi,2 Stop,33h 20m,₹29198
+411,204,Vistara,12:55,Hyderabad,19:50,New Delhi,2 Stop,30h 55m,₹29674
+412,205,Vistara,12:55,Hyderabad,19:50,New Delhi,2 Stop,30h 55m,₹29674
+413,206,Vistara,07:10,Hyderabad,19:50,New Delhi,2 Stop,36h 40m,₹29674
+414,207,Vistara,07:10,Hyderabad,21:10,New Delhi,2 Stop,38h 00m,₹30484
+415,208,Air India,22:25,Hyderabad,09:30,New Delhi,2 Stop,11h 05m,₹29986
+416,209,Vistara,07:10,Hyderabad,12:35,New Delhi,2 Stop,29h 25m,₹39304
+417,210,Vistara,07:10,Hyderabad,17:45,New Delhi,2 Stop,34h 35m,₹39304
+418,0,Alliance Air,19:30,Mumbai,20:55,Goa,Non Stop,01h 25m,₹5838
+419,1,Spice Jet,15:35,Mumbai,17:05,Goa,Non Stop,01h 30m,₹6362
+420,2,Indigo Air,16:55,Mumbai,18:10,Goa,Non Stop,01h 15m,₹6993
+421,3,Air Asia,04:20,Mumbai,05:30,Goa,Non Stop,01h 10m,₹8674
+422,4,Indigo Air,11:25,Mumbai,12:40,Goa,Non Stop,01h 15m,₹7623
+423,5,Indigo Air,04:55,Mumbai,06:15,Goa,Non Stop,01h 20m,₹8253
+424,6,Go Air,05:00,Mumbai,06:15,Goa,Non Stop,01h 15m,₹8042
+425,7,Go Air,15:20,Mumbai,16:50,Goa,Non Stop,01h 30m,₹8042
+426,8,Indigo Air,14:00,Mumbai,15:15,Goa,Non Stop,01h 15m,₹8988
+427,9,Air Asia,20:40,Mumbai,22:00,Goa,Non Stop,01h 20m,₹8674
+428,10,Go Air,16:30,Mumbai,18:00,Goa,Non Stop,01h 30m,₹8988
+429,11,Spice Jet,11:15,Mumbai,12:55,Goa,Non Stop,01h 40m,₹14762
+430,12,Air Asia,19:00,Mumbai,00:45,Goa,1 Stop,05h 45m,₹11538
+431,13,Vistara,21:30,Mumbai,14:05,Goa,1 Stop,16h 35m,₹12306
+432,14,Vistara,19:10,Mumbai,14:05,Goa,1 Stop,18h 55m,₹12306
+433,15,Vistara,17:30,Mumbai,14:05,Goa,1 Stop,20h 35m,₹12306
+434,16,Air India,13:00,Mumbai,00:40,Goa,1 Stop,11h 40m,₹15078
+435,17,Vistara,11:25,Mumbai,12:45,Goa,Non Stop,01h 20m,₹13188
+436,18,Air India,19:00,Mumbai,00:40,Goa,1 Stop,05h 40m,₹15078
+437,19,Air India,18:00,Mumbai,00:40,Goa,1 Stop,06h 40m,₹15078
+438,20,Air India,17:00,Mumbai,00:40,Goa,1 Stop,07h 40m,₹15078
+439,21,Air India,16:00,Mumbai,00:40,Goa,1 Stop,08h 40m,₹15078
+440,22,Air India,10:00,Mumbai,00:40,Goa,1 Stop,14h 40m,₹15078
+441,23,Air India,09:00,Mumbai,00:40,Goa,1 Stop,15h 40m,₹15078
+442,24,Air India,07:00,Mumbai,00:40,Goa,1 Stop,17h 40m,₹15078
+443,25,Air India,21:00,Mumbai,00:40,Goa,1 Stop,27h 40m,₹15078
+444,26,Vistara,16:00,Mumbai,14:05,Goa,1 Stop,22h 05m,₹15078
+445,27,Air India,13:00,Mumbai,13:35,Goa,1 Stop,24h 35m,₹15078
+446,28,Air Asia,22:00,Mumbai,05:55,Goa,1 Stop,07h 55m,₹13462
+447,29,Air Asia,21:20,Mumbai,05:55,Goa,1 Stop,08h 35m,₹13462
+448,30,Vistara,22:35,Mumbai,13:50,Goa,2 Stop,15h 15m,₹14530
+449,31,Vistara,22:35,Mumbai,21:20,Goa,2 Stop,22h 45m,₹14530
+450,32,Vistara,14:40,Mumbai,21:20,Goa,1 Stop,06h 40m,₹15078
+451,33,Vistara,12:25,Mumbai,21:20,Goa,1 Stop,08h 55m,₹15078
+452,34,Vistara,11:55,Mumbai,21:20,Goa,1 Stop,09h 25m,₹15078
+453,35,Vistara,07:30,Mumbai,21:20,Goa,1 Stop,13h 50m,₹15078
+454,36,Vistara,06:30,Mumbai,21:20,Goa,1 Stop,14h 50m,₹15078
+455,37,Vistara,22:45,Mumbai,13:50,Goa,1 Stop,15h 05m,₹15078
+456,38,Vistara,06:00,Mumbai,21:20,Goa,1 Stop,15h 20m,₹15078
+457,39,Vistara,21:55,Mumbai,13:50,Goa,1 Stop,15h 55m,₹15078
+458,40,Vistara,20:55,Mumbai,13:50,Goa,1 Stop,16h 55m,₹15078
+459,41,Vistara,19:45,Mumbai,13:50,Goa,1 Stop,18h 05m,₹15078
+460,42,Vistara,18:30,Mumbai,13:50,Goa,1 Stop,19h 20m,₹15078
+461,43,Vistara,17:35,Mumbai,13:50,Goa,1 Stop,20h 15m,₹15078
+462,44,Vistara,15:45,Mumbai,13:50,Goa,1 Stop,22h 05m,₹15078
+463,45,Vistara,22:45,Mumbai,21:20,Goa,1 Stop,22h 35m,₹15078
+464,46,Vistara,21:55,Mumbai,21:20,Goa,1 Stop,23h 25m,₹15078
+465,47,Vistara,20:55,Mumbai,21:20,Goa,1 Stop,24h 25m,₹15078
+466,48,Vistara,19:45,Mumbai,21:20,Goa,1 Stop,25h 35m,₹15078
+467,49,Vistara,18:30,Mumbai,21:20,Goa,1 Stop,26h 50m,₹15078
+468,50,Vistara,17:35,Mumbai,21:20,Goa,1 Stop,27h 45m,₹15078
+469,51,Air India,21:00,Mumbai,13:35,Goa,1 Stop,16h 35m,₹15078
+470,52,Air India,19:00,Mumbai,13:35,Goa,1 Stop,18h 35m,₹15078
+471,53,Air India,18:00,Mumbai,13:35,Goa,1 Stop,19h 35m,₹15078
+472,54,Air India,17:00,Mumbai,13:35,Goa,1 Stop,20h 35m,₹15078
+473,55,Air India,16:00,Mumbai,13:35,Goa,1 Stop,21h 35m,₹15078
+474,56,Air India,10:00,Mumbai,13:35,Goa,1 Stop,27h 35m,₹15078
+475,57,Air India,09:00,Mumbai,13:35,Goa,1 Stop,28h 35m,₹15078
+476,58,Vistara,09:05,Mumbai,14:05,Goa,1 Stop,05h 00m,₹14238
+477,59,Vistara,07:00,Mumbai,14:05,Goa,1 Stop,07h 05m,₹14238
+478,60,Vistara,06:00,Mumbai,14:05,Goa,1 Stop,08h 05m,₹14238
+479,61,Vistara,21:20,Mumbai,13:50,Goa,2 Stop,16h 30m,₹14844
+480,62,Vistara,19:20,Mumbai,13:50,Goa,2 Stop,18h 30m,₹14844
+481,63,Vistara,21:20,Mumbai,21:20,Goa,2 Stop,24h 00m,₹14844
+482,64,Vistara,21:20,Mumbai,21:20,Goa,2 Stop,24h 00m,₹14844
+483,65,Vistara,21:20,Mumbai,21:20,Goa,2 Stop,24h 00m,₹14844
+484,66,Vistara,19:20,Mumbai,21:20,Goa,2 Stop,26h 00m,₹14844
+485,67,Vistara,19:20,Mumbai,21:20,Goa,2 Stop,26h 00m,₹14844
+486,68,Vistara,19:20,Mumbai,21:20,Goa,2 Stop,26h 00m,₹14844
+487,69,Air India,08:00,Mumbai,00:40,Goa,1 Stop,16h 40m,₹15078
+488,70,Air Asia,19:00,Mumbai,05:55,Goa,1 Stop,10h 55m,₹14582
+489,71,Vistara,06:35,Mumbai,13:50,Goa,2 Stop,31h 15m,₹15265
+490,72,Vistara,06:35,Mumbai,13:50,Goa,2 Stop,31h 15m,₹15265
+491,73,Vistara,06:35,Mumbai,21:20,Goa,2 Stop,38h 45m,₹15265
+492,74,Vistara,06:35,Mumbai,21:20,Goa,2 Stop,38h 45m,₹15265
+493,75,Vistara,06:00,Mumbai,14:05,Goa,2 Stop,08h 05m,₹16283
+494,76,Air India,05:05,Mumbai,06:20,Goa,Non Stop,01h 15m,₹16307
+495,77,Vistara,21:30,Mumbai,13:50,Goa,2 Stop,16h 2m,₹15989
+496,78,Vistara,19:10,Mumbai,13:50,Goa,2 Stop,18h 4m,₹15989
+497,79,Vistara,17:30,Mumbai,13:50,Goa,2 Stop,20h 2m,₹15989
+498,80,Vistara,17:30,Mumbai,13:50,Goa,2 Stop,20h 2m,₹15989
+499,81,Vistara,21:30,Mumbai,21:20,Goa,2 Stop,23h 5m,₹15989
+500,82,Vistara,21:30,Mumbai,21:20,Goa,2 Stop,23h 5m,₹15989
+501,83,Vistara,21:30,Mumbai,21:20,Goa,2 Stop,23h 5m,₹15989
+502,84,Air India,13:25,Mumbai,14:35,Goa,Non Stop,01h 10m,₹16307
+503,85,Air India,21:00,Mumbai,22:20,Goa,Non Stop,01h 20m,₹16307
+504,86,Air Asia,13:05,Mumbai,00:45,Goa,1 Stop,11h 40m,₹16328
+505,87,Vistara,22:35,Mumbai,21:20,Goa,2 Stop,22h 45m,₹17000
+506,88,Vistara,06:35,Mumbai,21:20,Goa,2 Stop,38h 45m,₹17000
+507,89,Vistara,21:00,Mumbai,13:50,Goa,2 Stop,16h 50m,₹17732
+508,90,Vistara,17:50,Mumbai,13:50,Goa,2 Stop,20h 00m,₹17732
+509,91,Vistara,17:50,Mumbai,13:50,Goa,2 Stop,20h 00m,₹17732
+510,92,Vistara,21:00,Mumbai,21:20,Goa,2 Stop,24h 20m,₹17732
+511,93,Vistara,21:00,Mumbai,21:20,Goa,2 Stop,24h 20m,₹17732
+512,94,Vistara,17:50,Mumbai,21:20,Goa,2 Stop,27h 30m,₹17732
+513,95,Vistara,17:50,Mumbai,21:20,Goa,2 Stop,27h 30m,₹17732
+514,96,Vistara,17:50,Mumbai,21:20,Goa,2 Stop,27h 30m,₹17732
+515,97,Vistara,09:45,Mumbai,13:50,Goa,2 Stop,28h 05m,₹17732
+516,98,Vistara,09:45,Mumbai,13:50,Goa,2 Stop,28h 05m,₹17732
+517,99,Vistara,09:45,Mumbai,21:20,Goa,2 Stop,35h 35m,₹17732
+518,100,Vistara,09:45,Mumbai,21:20,Goa,2 Stop,35h 35m,₹17732
+519,101,Vistara,09:45,Mumbai,21:20,Goa,2 Stop,35h 35m,₹17732
+520,102,Go Air,11:30,Mumbai,12:45,Goa,Non Stop,01h 15m,₹17400
+521,103,Air India,20:10,Mumbai,13:35,Goa,2 Stop,17h 25m,₹19803
+522,104,Air India,11:05,Mumbai,00:40,Goa,2 Stop,13h 35m,₹19803
+523,105,Vistara,10:25,Mumbai,21:20,Goa,1 Stop,10h 55m,₹19488
+524,106,Vistara,20:00,Mumbai,13:50,Goa,2 Stop,17h 50m,₹19286
+525,107,Vistara,20:00,Mumbai,21:20,Goa,2 Stop,25h 20m,₹19286
+526,108,Vistara,16:00,Mumbai,13:50,Goa,2 Stop,21h 5m,₹18761
+527,109,Vistara,16:00,Mumbai,13:50,Goa,2 Stop,21h 5m,₹18761
+528,110,Vistara,16:00,Mumbai,13:50,Goa,2 Stop,21h 5m,₹18761
+529,111,Vistara,16:00,Mumbai,13:50,Goa,2 Stop,21h 5m,₹18761
+530,112,Vistara,12:15,Mumbai,21:20,Goa,2 Stop,09h 05m,₹20231
+531,113,Vistara,12:15,Mumbai,13:50,Goa,2 Stop,25h 35m,₹20231
+532,114,Vistara,07:30,Mumbai,13:50,Goa,1 Stop,06h 20m,₹20643
+533,115,Vistara,06:30,Mumbai,13:50,Goa,1 Stop,07h 20m,₹20643
+534,116,Vistara,06:00,Mumbai,13:50,Goa,1 Stop,07h 50m,₹20643
+535,117,Vistara,06:45,Mumbai,21:20,Goa,2 Stop,14h 35m,₹20441
+536,118,Vistara,06:45,Mumbai,13:50,Goa,2 Stop,31h 05m,₹20441
+537,119,Air India,06:00,Mumbai,00:40,Goa,2 Stop,18h 4m,₹19803
+538,120,Air India,06:00,Mumbai,00:40,Goa,2 Stop,18h 4m,₹19803
+539,121,Vistara,06:35,Mumbai,21:20,Goa,2 Stop,14h 45m,₹20675
+540,122,Air Asia,13:05,Mumbai,19:25,Goa,1 Stop,06h 20m,₹19974
+541,123,Air India,18:35,Mumbai,00:40,Goa,2 Stop,30h 05m,₹20402
+542,124,Air Asia,13:05,Mumbai,19:25,Goa,2 Stop,06h 20m,₹21338
+543,125,Air India,18:35,Mumbai,13:35,Goa,2 Stop,19h 00m,₹20711
+544,126,Vistara,20:00,Mumbai,21:20,Goa,2 Stop,25h 20m,₹22775
+545,127,Vistara,06:35,Mumbai,13:50,Goa,2 Stop,07h 15m,₹25190
+546,128,Vistara,08:45,Mumbai,21:20,Goa,1 Stop,12h 35m,₹26838
+547,129,Air India,06:40,Mumbai,00:40,Goa,2 Stop,18h 00m,₹26418
+548,130,Vistara,10:45,Mumbai,21:20,Goa,2 Stop,10h 35m,₹31366
+549,131,Vistara,06:20,Mumbai,21:20,Goa,2 Stop,15h 00m,₹31366
+550,132,Vistara,06:20,Mumbai,21:20,Goa,2 Stop,15h 00m,₹31366
+551,133,Vistara,10:45,Mumbai,21:20,Goa,2 Stop,34h 35m,₹31366
+552,134,Vistara,10:45,Mumbai,21:20,Goa,2 Stop,34h 35m,₹31366
+553,135,Vistara,10:45,Mumbai,21:20,Goa,2 Stop,34h 35m,₹31366
+554,136,Vistara,10:45,Mumbai,21:20,Goa,2 Stop,34h 35m,₹31366
+555,137,Vistara,06:20,Mumbai,21:20,Goa,2 Stop,39h 00m,₹31366
+556,138,Vistara,06:20,Mumbai,21:20,Goa,2 Stop,39h 00m,₹31366
+557,139,Vistara,06:20,Mumbai,21:20,Goa,2 Stop,39h 00m,₹31366
+558,140,Air India,07:20,Mumbai,00:40,Goa,1 Stop,17h 20m,₹32208
+559,141,Air India,07:20,Mumbai,13:35,Goa,2 Stop,30h 15m,₹32768
+560,142,Air India,07:20,Mumbai,13:35,Goa,1 Stop,30h 15m,₹32768
+561,143,Air India,07:00,Mumbai,13:35,Goa,1 Stop,06h 35m,₹34262
+562,144,Air India,11:15,Mumbai,13:35,Goa,2 Stop,26h 20m,₹34538
+563,145,Vistara,06:45,Mumbai,21:20,Goa,2 Stop,38h 35m,₹39973
+564,146,Air India,21:05,Mumbai,13:35,Goa,2 Stop,16h 30m,₹69489
+565,0,,15:30,,03:15,,1 Stop,11h 45m,₹7082
+566,1,,22:15,,12:40,,1 Stop,14h 25m,₹7082
+567,2,,23:40,,01:35,,Non Stop,01h 55m,₹9209
+568,3,,18:50,,21:00,,Non Stop,02h 10m,₹16769
+569,4,,20:00,,22:05,,Non Stop,02h 05m,₹9734
+570,5,,18:10,,19:55,,2 Stop,25h 45m,₹12127
+571,6,,21:20,,19:55,,2 Stop,22h 35m,₹12652
+572,7,,18:10,,16:55,,2 Stop,22h 45m,₹12641
+573,8,,18:45,,19:55,,2 Stop,25h 10m,₹12652
+574,9,,21:20,,16:55,,2 Stop,19h 35m,₹13166
+575,10,,18:10,,16:55,,2 Stop,22h 45m,₹13229
+576,11,,18:10,,19:55,,2 Stop,25h 45m,₹13229
+577,12,,16:20,,21:35,,1 Stop,05h 15m,₹13147
+578,13,,16:55,,23:15,,1 Stop,06h 20m,₹13147
+579,14,,18:45,,16:55,,2 Stop,22h 10m,₹13754
+580,15,,18:45,,19:55,,2 Stop,25h 10m,₹13754
+581,16,,18:45,,16:55,,2 Stop,22h 1m,₹13166
+582,17,,18:10,,01:15,,1 Stop,07h 05m,₹13331
+583,18,,22:30,,05:15,,1 Stop,06h 45m,₹14197
+584,19,,21:45,,08:15,,1 Stop,10h 30m,₹14250
+585,20,,17:45,,19:40,,Non Stop,01h 55m,₹13619
+586,21,,18:40,,20:45,,Non Stop,02h 05m,₹13619
+587,22,,20:45,,07:50,,1 Stop,11h 05m,₹13888
+588,23,,20:00,,23:50,,1 Stop,27h 50m,₹14250
+589,24,,19:00,,23:50,,1 Stop,28h 50m,₹14250
+590,25,,16:15,,22:55,,1 Stop,06h 40m,₹14984
+591,26,,21:30,,19:55,,1 Stop,22h 25m,₹16244
+592,27,,20:40,,19:55,,1 Stop,23h 15m,₹16244
+593,28,,19:45,,19:55,,1 Stop,24h 10m,₹16244
+594,29,,19:00,,19:55,,1 Stop,24h 55m,₹16244
+595,30,,17:45,,19:55,,1 Stop,26h 10m,₹16244
+596,31,,16:55,,19:55,,1 Stop,27h 00m,₹16244
+597,32,,17:55,,23:50,,1 Stop,05h 55m,₹16245
+598,33,,22:30,,08:50,,1 Stop,10h 20m,₹16245
+599,34,,21:15,,08:50,,1 Stop,11h 35m,₹16245
+600,35,,20:00,,08:50,,1 Stop,12h 50m,₹16245
+601,36,,19:00,,08:50,,1 Stop,13h 50m,₹16245
+602,37,,17:55,,08:50,,1 Stop,14h 55m,₹16245
+603,38,,22:30,,23:50,,1 Stop,25h 20m,₹16245
+604,39,,21:15,,23:50,,1 Stop,26h 35m,₹16245
+605,40,,18:55,,22:20,,1 Stop,27h 25m,₹15372
+606,41,,23:30,,06:00,,1 Stop,06h 30m,₹15352
+607,42,,20:35,,19:55,,2 Stop,23h 20m,₹15907
+608,43,,20:35,,19:55,,2 Stop,23h 20m,₹15907
+609,44,,17:35,,19:55,,2 Stop,26h 20m,₹16222
+610,45,,17:35,,19:55,,2 Stop,26h 20m,₹16222
+611,46,,21:30,,16:55,Kolkata,1 Stop,19h 25m,₹17190
+612,47,,20:40,,16:55,Kolkata,1 Stop,20h 15m,₹17190
+613,48,,19:45,,16:55,Kolkata,1 Stop,21h 10m,₹17190
+614,49,,19:00,,16:55,Kolkata,1 Stop,21h 55m,₹17190
+615,50,,17:45,,16:55,Kolkata,1 Stop,23h 10m,₹17190
+616,51,,16:55,,16:55,Kolkata,1 Stop,24h 00m,₹17190
+617,52,,20:35,,16:55,Kolkata,2 Stop,20h 20m,₹16421
+618,53,,20:35,,16:55,Kolkata,2 Stop,20h 20m,₹16421
+619,54,,20:35,,19:55,Kolkata,2 Stop,23h 20m,₹16421
+620,55,,17:35,,16:55,Kolkata,2 Stop,23h 20m,₹16736
+621,56,,17:35,,16:55,Kolkata,2 Stop,23h 20m,₹16736
+622,57,,17:35,,19:55,Kolkata,2 Stop,26h 20m,₹16736
+623,58,,21:20,,09:40,Kolkata,2 Stop,12h 20m,₹17484
+624,59,,15:55,,20:55,Kolkata,1 Stop,05h 00m,₹16360
+625,60,,17:20,,00:10,Kolkata,1 Stop,06h 50m,₹16683
+626,61,,20:30,,22:45,Kolkata,Non Stop,02h 15m,₹17400
+627,62,,18:10,,09:40,Kolkata,2 Stop,15h 3m,₹16959
+628,63,,21:30,,09:40,Kolkata,1 Stop,12h 10m,₹18450
+629,64,,20:40,,09:40,Kolkata,1 Stop,13h 00m,₹18450
+630,65,,19:45,,09:40,Kolkata,1 Stop,13h 55m,₹18450
+631,66,,19:00,,09:40,Kolkata,1 Stop,14h 40m,₹18450
+632,67,,17:45,,09:40,Kolkata,1 Stop,15h 55m,₹18450
+633,68,,16:55,,09:40,Kolkata,1 Stop,16h 45m,₹18450
+634,69,,18:45,,09:40,Kolkata,2 Stop,14h 5m,₹17484
+635,70,,17:15,,22:10,Kolkata,1 Stop,04h 55m,₹18462
+636,71,,20:10,,22:35,Kolkata,Non Stop,02h 25m,₹18343
+637,72,,18:45,,09:40,Kolkata,2 Stop,14h 55m,₹19238
+638,73,,22:30,,10:40,Kolkata,2 Stop,12h 10m,₹20676
+639,74,,20:50,,10:40,Kolkata,1 Stop,13h 50m,₹20235
+640,75,,19:55,,19:55,Kolkata,2 Stop,24h 0m,₹22070
+641,76,,19:55,,19:55,Kolkata,2 Stop,24h 0m,₹22070
+642,77,,17:35,,09:40,Kolkata,2 Stop,16h 05m,₹23490
+643,78,,19:55,,16:55,Kolkata,2 Stop,21h 0m,₹22732
+644,79,,19:55,,16:55,Kolkata,2 Stop,21h 0m,₹22732
+645,80,,19:55,,19:55,Kolkata,2 Stop,24h 0m,₹22732
+646,81,,17:25,,19:55,Kolkata,2 Stop,26h 3m,₹23015
+647,82,,17:25,,19:55,Kolkata,2 Stop,26h 3m,₹23015
+648,83,,20:15,,22:25,Kolkata,Non Stop,02h 10m,₹23393
+649,84,,17:25,,16:55,Kolkata,2 Stop,23h 3m,₹23677
+650,85,,17:25,,16:55,Kolkata,2 Stop,23h 3m,₹23677
+651,86,,17:25,,19:55,Kolkata,2 Stop,26h 3m,₹23677
+652,87,,17:50,,09:40,Kolkata,2 Stop,15h 50m,₹26535
+653,88,,21:15,,23:50,Kolkata,2 Stop,26h 35m,₹25999
+654,89,,17:15,,08:15,Kolkata,1 Stop,15h 00m,₹27989
+655,90,,17:00,,19:25,Kolkata,Non Stop,02h 25m,₹29096
+656,91,,17:30,,19:35,Kolkata,Non Stop,02h 05m,₹31750
+657,92,,15:55,,18:05,Kolkata,Non Stop,02h 10m,₹31750
+658,93,,15:30,,19:55,Kolkata,1 Stop,28h 25m,₹36299
+659,94,,15:30,,16:55,Kolkata,1 Stop,25h 25m,₹36720
+660,95,,15:30,,09:40,Kolkata,1 Stop,18h 1m,₹37875
+661,96,,18:10,,09:40,Kolkata,2 Stop,15h 30m,₹43090
+662,97,,16:15,,10:40,Kolkata,1 Stop,18h 25m,₹43441
+663,98,,17:35,,09:40,Kolkata,2 Stop,16h 05m,₹49877
+664,0,SpiceJet,06:05,New Delhi,08:55,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 6,713"
+665,1,Go First,05:45,New Delhi,08:30,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,107"
+666,2,Vistara,06:15,New Delhi,09:00,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,184"
+667,3,Vistara,08:10,New Delhi,10:50,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 7,184"
+668,4,IndiGo,08:30,New Delhi,16:30,Bengaluru,1 stop via Shirdi,"08 h
+1 stop via Shirdi","₹ 7,487"
+669,5,IndiGo,02:25,New Delhi,05:15,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+670,6,IndiGo,03:50,New Delhi,06:40,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+671,7,IndiGo,06:55,New Delhi,09:50,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 7,499"
+672,8,IndiGo,22:55,New Delhi,01:45,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+673,9,Akasa Air,11:40,New Delhi,14:25,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,584"
+674,10,AirAsia,19:10,New Delhi,21:55,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 7,878"
+675,11,IndiGo,06:00,New Delhi,08:35,Bengaluru,Non stop,"02 h 35 m
+Non stop","₹ 7,919"
+676,12,SpiceJet,20:00,New Delhi,22:30,Bengaluru,Non stop,"02 h 30 m
+Non stop","₹ 7,973"
+677,13,Go First,20:45,New Delhi,23:30,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,053"
+678,14,Vistara,16:05,New Delhi,18:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,234"
+679,15,Vistara,19:50,New Delhi,22:40,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 8,234"
+680,16,Vistara,20:40,New Delhi,23:20,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 8,234"
+681,17,IndiGo,05:15,New Delhi,10:15,Bengaluru,1 stop via Nagpur,"05 h
+1 stop via Nagpur","₹ 8,237"
+682,18,IndiGo,06:00,New Delhi,12:10,Bengaluru,1 stop via Bhopal,"06 h 10 m
+1 stop via Bhopal","₹ 8,237"
+683,19,IndiGo,08:20,New Delhi,11:00,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 8,580"
+684,20,IndiGo,20:10,New Delhi,23:00,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 8,580"
+685,21,IndiGo,15:00,New Delhi,21:35,Bengaluru,1 stop via Hyderabad,"06 h 35 m
+1 stop via Hyderabad","₹ 8,986"
+686,22,IndiGo,09:15,New Delhi,11:55,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 9,389"
+687,23,IndiGo,17:15,New Delhi,19:55,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 9,389"
+688,24,Vistara,09:05,New Delhi,11:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 9,494"
+689,25,Vistara,14:15,New Delhi,17:05,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,494"
+690,26,IndiGo,12:45,New Delhi,19:20,Bengaluru,1 stop via Hyderabad,"06 h 35 m
+1 stop via Hyderabad","₹ 9,736"
+691,0,IndiGo,15:10,New Delhi,00:05,Bengaluru,1 stop via Hyderabad,"08 h 55 m
+1 stop via Hyderabad","₹ 5,988"
+692,1,Go First,05:45,New Delhi,08:35,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,107"
+693,2,Vistara,05:35,New Delhi,08:30,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 7,184"
+694,3,IndiGo,19:45,New Delhi,01:10,Bengaluru,1 stop via Hyderabad,"05 h 25 m
+1 stop via Hyderabad","₹ 7,487"
+695,4,IndiGo,05:55,New Delhi,08:45,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,499"
+696,5,SpiceJet,06:20,New Delhi,09:10,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 7,973"
+697,6,SpiceJet,20:30,New Delhi,23:05,Bengaluru,Non stop,"02 h 35 m
+Non stop","₹ 7,973"
+698,7,Air India,06:10,New Delhi,08:55,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,234"
+699,8,Air India,07:30,New Delhi,10:30,Bengaluru,Non stop,"03 h
+Non stop","₹ 8,234"
+700,9,IndiGo,06:10,New Delhi,12:20,Bengaluru,1 stop via Bhopal,"06 h 10 m
+1 stop via Bhopal","₹ 8,237"
+701,10,Akasa Air,11:50,New Delhi,14:35,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,484"
+702,11,IndiGo,11:45,New Delhi,14:40,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 8,580"
+703,12,IndiGo,22:55,New Delhi,01:45,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 8,580"
+704,13,Go First,18:40,New Delhi,21:25,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 8,683"
+705,14,IndiGo,05:15,New Delhi,10:40,Bengaluru,1 stop via Nagpur,"05 h 25 m
+1 stop via Nagpur","₹ 8,986"
+706,15,IndiGo,04:20,New Delhi,07:15,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 9,389"
+707,16,IndiGo,08:00,New Delhi,11:05,Bengaluru,Non stop,"03 h 05 m
+Non stop","₹ 9,389"
+708,17,IndiGo,10:40,New Delhi,13:30,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+709,18,IndiGo,13:05,New Delhi,15:55,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+710,19,IndiGo,15:40,New Delhi,18:30,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+711,20,IndiGo,21:45,New Delhi,00:35,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 9,389"
+712,21,Air India,14:55,New Delhi,18:20,Bengaluru,Non stop,"03 h 25 m
+Non stop","₹ 9,494"
+713,22,Air India,21:10,New Delhi,00:05,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 9,494"
+714,23,IndiGo,08:10,New Delhi,13:00,Bengaluru,1 stop via Hyderabad,"04 h 50 m
+1 stop via Hyderabad","₹ 9,736"
+715,24,IndiGo,19:20,New Delhi,22:05,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 10,124"
+716,25,IndiGo,20:30,New Delhi,23:25,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 10,124"
+717,26,IndiGo,06:30,New Delhi,13:00,Bengaluru,1 stop via Hyderabad,"06 h 30 m
+1 stop via Hyderabad","₹ 10,486"
+718,27,IndiGo,17:25,New Delhi,20:05,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 10,859"
+719,28,Go First,17:55,New Delhi,00:25,Bengaluru,1 stop via Mumbai,"06 h 30 m
+1 stop via Mumbai","₹ 11,033"
+720,29,Vistara,08:05,New Delhi,10:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+721,30,Vistara,09:05,New Delhi,11:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+722,31,Air India,09:45,New Delhi,12:30,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+723,32,Vistara,14:10,New Delhi,17:00,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 11,069"
+724,33,Vistara,16:05,New Delhi,18:50,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 11,069"
+725,34,Air India,16:55,New Delhi,20:15,Bengaluru,Non stop,"03 h 20 m
+Non stop","₹ 11,069"
+726,35,Vistara,19:50,New Delhi,22:40,Bengaluru,Non stop,"02 h 50 m
+Non stop","₹ 11,069"
+727,36,Vistara,20:40,New Delhi,23:20,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 11,069"
+728,37,Go First,17:15,New Delhi,23:30,Bengaluru,1 stop via Ahmedabad,"06 h 15 m
+1 stop via Ahmedabad","₹ 11,076"
+729,38,Vistara,17:30,New Delhi,20:25,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 13,169"
+730,39,AirAsia,07:15,New Delhi,12:10,Bengaluru,1 stop via Lucknow,"04 h 55 m
+1 stop via Lucknow","₹ 13,226"
+731,40,AirAsia,09:35,New Delhi,12:15,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 15,858"
+732,41,AirAsia,16:20,New Delhi,19:05,Bengaluru,Non stop,"02 h 45 m
+Non stop","₹ 15,858"
+733,42,AirAsia,19:05,New Delhi,21:45,Bengaluru,Non stop,"02 h 40 m
+Non stop","₹ 15,858"
+734,43,Go First,10:45,New Delhi,15:10,Bengaluru,1 stop via Goa,"04 h 25 m
+1 stop via Goa","₹ 16,349"
+735,44,Air India,13:30,New Delhi,16:25,Bengaluru,Non stop,"02 h 55 m
+Non stop","₹ 18,345"
+736,0,Air India,04:55,New Delhi,22:05,Mumbai,1 Stop,17h 10m,"3,850"
+737,1,Go First,16:40,New Delhi,23:25,Mumbai,1 Stop,6h 45m,"3,870"
+738,2,IndiGo,23:40,New Delhi,"05:50
++ 1 day",Mumbai,1 Stop,6h 10m,"4,298"
+739,3,Vistara,21:20,New Delhi,"06:15
++ 1 day",Mumbai,1 Stop,8h 55m,"4,753"
+740,4,Air India,20:00,New Delhi,22:10,Mumbai,Non Stop,2h 10m,"4,817"
+741,5,Air India,07:00,New Delhi,09:15,Mumbai,Non Stop,2h 15m,"4,817"
+742,6,Air India,21:20,New Delhi,23:35,Mumbai,Non Stop,2h 15m,"4,817"
+743,7,Air India,22:30,New Delhi,"00:45
++ 1 day",Mumbai,Non Stop,2h 15m,"4,817"
+744,8,Air India,08:00,New Delhi,10:20,Mumbai,Non Stop,2h 20m,"4,817"
+745,9,Air India,09:00,New Delhi,11:20,Mumbai,Non Stop,2h 20m,"4,817"
+746,10,Air India,14:00,New Delhi,16:20,Mumbai,Non Stop,2h 20m,"4,817"
+747,11,Air India,10:00,New Delhi,12:25,Mumbai,Non Stop,2h 25m,"4,817"
+748,12,Air India,17:50,New Delhi,20:15,Mumbai,Non Stop,2h 25m,"4,817"
+749,13,Air India,19:00,New Delhi,21:25,Mumbai,Non Stop,2h 25m,"4,817"
+750,14,Air India,14:30,New Delhi,18:15,Mumbai,1 Stop,3h 45m,"4,817"
+751,15,IndiGo,13:20,New Delhi,20:00,Mumbai,1 Stop,6h 40m,"5,029"
+752,16,Go First,06:00,New Delhi,10:40,Mumbai,1 Stop,4h 40m,"5,155"
+753,17,Air Asia,19:05,New Delhi,21:45,Bangalore,Non Stop,2h 40m,"4,470"
+754,18,Air Asia,08:10,New Delhi,10:55,Bangalore,Non Stop,2h 45m,"4,741"
+755,19,Air India,06:10,New Delhi,08:55,Bangalore,Non Stop,2h 45m,"4,741"
+756,20,Air India,21:10,New Delhi,"00:05
++ 1 day",Bangalore,Non Stop,2h 55m,"4,741"
+757,21,Air India,07:30,New Delhi,10:30,Bangalore,Non Stop,3h 00m,"4,741"
+758,22,Air India,16:55,New Delhi,20:15,Bangalore,Non Stop,3h 20m,"5,004"
+759,23,Air India,09:45,New Delhi,12:30,Bangalore,Non Stop,2h 45m,"5,004"
+760,24,Air India,13:30,New Delhi,16:25,Bangalore,Non Stop,2h 55m,"5,004"
+761,25,Air India,14:55,New Delhi,18:20,Bangalore,Non Stop,3h 25m,"5,137"
+762,26,Go First,05:45,New Delhi,08:35,Bangalore,Non Stop,2h 50m,"5,213"
+763,27,SpiceJet,20:30,New Delhi,23:05,Bangalore,Non Stop,2h 35m,"5,213"
+764,28,SpiceJet,06:20,New Delhi,09:10,Bangalore,Non Stop,2h 50m,"5,235"
+765,29,Air Asia,21:20,New Delhi,23:55,Bangalore,Non Stop,2h 35m,"5,235"
+766,30,Air Asia,09:35,New Delhi,12:15,Bangalore,Non Stop,2h 40m,"5,237"
+767,31,Air Asia,16:20,New Delhi,19:05,Bangalore,Non Stop,2h 45m,"5,237"
+768,32,IndiGo,05:55,New Delhi,08:45,Bangalore,Non Stop,2h 50m,"5,237"
+769,33,IndiGo,04:20,New Delhi,07:15,Bangalore,Non Stop,2h 55m,"6,293"
+770,34,IndiGo,08:00,New Delhi,11:05,Bangalore,Non Stop,3h 05m,"6,902"
+771,35,Go First,21:30,New Delhi,"00:05
++ 1 day",Goa,Non Stop,2h 35m,"6,978"
+772,36,Go First,10:45,New Delhi,13:30,Goa,Non Stop,2h 45m,"6,978"
+773,37,SpiceJet,17:55,New Delhi,20:25,Goa,Non Stop,2h 30m,"6,978"
+774,38,SpiceJet,16:35,New Delhi,19:15,Goa,Non Stop,2h 40m,"6,978"
+775,39,SpiceJet,16:25,New Delhi,"07:10
++ 1 day",Goa,1 Stop,14h 45m,"7,002"
+776,40,SpiceJet,20:00,New Delhi,"22:20
++ 1 day",Goa,1 Stop,26h 20m,"7,004"
+777,41,Air Asia,20:10,New Delhi,22:35,Goa,Non Stop,2h 25m,"7,004"
+778,42,IndiGo,16:25,New Delhi,19:05,Goa,Non Stop,2h 40m,"7,004"
+779,43,IndiGo,17:40,New Delhi,20:20,Goa,Non Stop,2h 40m,"7,005"
+780,44,IndiGo,19:10,New Delhi,21:55,Goa,Non Stop,2h 45m,"7,082"
+781,45,Air Asia,13:35,New Delhi,17:35,Goa,1 Stop,4h 00m,"7,082"
+782,46,Air Asia,08:10,New Delhi,14:15,Goa,1 Stop,6h 05m,"7,082"
+783,47,Air Asia,21:20,New Delhi,"05:25
++ 1 day",Goa,1 Stop,8h 05m,"7,082"
+784,48,Air Asia,21:20,New Delhi,"06:45
++ 1 day",Goa,1 Stop,9h 25m,"7,097"
+785,49,Air Asia,07:15,New Delhi,17:35,Goa,1 Stop,10h 20m,"7,188"
+786,50,Go First,06:00,New Delhi,16:45,Goa,1 Stop,10h 45m,"7,215"
+787,51,SpiceJet,12:15,New Delhi,14:50,Goa,Non Stop,2h 35m,"7,215"
+788,52,Air Asia,05:10,New Delhi,07:40,Goa,Non Stop,2h 30m,"7,264"
+789,53,Air Asia,12:45,New Delhi,15:25,Goa,Non Stop,2h 40m,"5,455"
+790,54,IndiGo,23:40,New Delhi,"07:15
++ 1 day",Goa,1 Stop,7h 35m,"5,455"
+791,55,Air India,09:45,New Delhi,12:00,Hyderabad,Non Stop,2h 15m,"5,455"
+792,56,Air India,16:45,New Delhi,19:00,Hyderabad,Non Stop,2h 15m,"5,851"
+793,57,Air India,21:30,New Delhi,23:45,Hyderabad,Non Stop,2h 15m,"5,928"
+794,58,Go First,21:00,New Delhi,23:10,Hyderabad,Non Stop,2h 10m,"5,954"
+795,59,SpiceJet,16:25,New Delhi,18:45,Hyderabad,Non Stop,2h 20m,"5,954"
+796,60,IndiGo,18:40,New Delhi,20:50,Hyderabad,Non Stop,2h 10m,"5,954"
+797,61,IndiGo,19:45,New Delhi,22:00,Hyderabad,Non Stop,2h 15m,"5,954"
+798,62,IndiGo,06:30,New Delhi,08:50,Hyderabad,Non Stop,2h 20m,"5,955"
+799,63,IndiGo,21:25,New Delhi,23:50,Hyderabad,Non Stop,2h 25m,"5,980"
+800,64,IndiGo,07:10,New Delhi,12:45,Hyderabad,1 Stop,5h 35m,"6,032"
+801,65,Vistara,10:25,New Delhi,12:40,Hyderabad,Non Stop,2h 15m,"6,164"
+802,66,Air India,07:10,New Delhi,09:20,Hyderabad,Non Stop,2h 10m,"6,164"
+803,67,Air Asia,04:55,New Delhi,13:45,Hyderabad,1 Stop,8h 50m,"6,164"
+804,68,IndiGo,15:10,New Delhi,17:25,Hyderabad,Non Stop,2h 15m,"6,164"
+805,69,IndiGo,01:55,New Delhi,04:15,Hyderabad,Non Stop,2h 20m,"6,753"
+806,70,IndiGo,08:10,New Delhi,10:30,Hyderabad,Non Stop,2h 20m,"6,753"
+807,71,IndiGo,17:15,New Delhi,19:35,Hyderabad,Non Stop,2h 20m,"6,753"
+808,72,Air Asia,09:35,New Delhi,17:05,Chennai,1 Stop,7h 30m,"6,753"
+809,73,Air Asia,08:10,New Delhi,17:05,Chennai,1 Stop,8h 55m,"6,753"
+810,74,Air Asia,21:20,New Delhi,"06:25
++ 1 day",Chennai,1 Stop,9h 05m,"6,753"
+811,75,Air Asia,21:20,New Delhi,"08:35
++ 1 day",Chennai,1 Stop,11h 15m,"6,753"
+812,76,Air Asia,19:05,New Delhi,"06:25
++ 1 day",Chennai,1 Stop,11h 20m,"6,800"
+813,77,Air Asia,19:05,New Delhi,"08:35
++ 1 day",Chennai,1 Stop,13h 30m,"6,800"
+814,78,Air Asia,16:20,New Delhi,"06:25
++ 1 day",Chennai,1 Stop,14h 05m,"6,848"
+815,79,Go First,21:10,New Delhi,"07:40
++ 1 day",Chennai,1 Stop,10h 30m,"6,848"
+816,80,Go First,20:45,New Delhi,"07:40
++ 1 day",Chennai,1 Stop,10h 55m,"6,848"
+817,81,Vistara,18:00,New Delhi,"08:50
++ 1 day",Chennai,2 Stop(s),14h 50m,"5,954"
+818,82,Vistara,18:00,New Delhi,"19:50
++ 1 day",Chennai,2 Stop(s),25h 50m,"5,954"
+819,83,Vistara,18:00,New Delhi,"19:50
++ 1 day",Chennai,2 Stop(s),25h 50m,"5,954"
+820,84,IndiGo,14:40,New Delhi,20:35,Kolkata,1 Stop,5h 55m,"5,954"
+821,85,IndiGo,06:30,New Delhi,12:40,Kolkata,1 Stop,6h 10m,"5,954"
+822,86,IndiGo,14:15,New Delhi,20:35,Kolkata,1 Stop,6h 20m,"5,954"
+823,87,IndiGo,16:45,New Delhi,23:15,Kolkata,1 Stop,6h 30m,"6,505"
+824,88,IndiGo,06:40,New Delhi,13:15,Kolkata,1 Stop,6h 35m,"6,505"
+825,89,IndiGo,02:00,New Delhi,08:50,Kolkata,1 Stop,6h 50m,"6,505"
+826,90,Air India,20:15,New Delhi,22:25,Kolkata,Non Stop,2h 10m,"3,775"
+827,91,Air India,06:50,New Delhi,09:05,Kolkata,Non Stop,2h 15m,"3,775"
+828,92,Air India,12:10,New Delhi,14:30,Kolkata,Non Stop,2h 20m,"3,775"
+829,93,Air India,10:15,New Delhi,11:45,Srinagar,Non Stop,1h 30m,"4,172"
+830,94,Air India,07:25,New Delhi,09:05,Srinagar,Non Stop,1h 40m,"4,175"
+831,95,Air India,10:45,New Delhi,13:40,Srinagar,1 Stop,2h 55m,"4,175"
+832,96,Go First,15:25,New Delhi,17:00,Srinagar,Non Stop,1h 35m,"4,175"
+833,97,Go First,07:00,New Delhi,14:35,Srinagar,2 Stop(s),7h 35m,"4,175"
+834,98,Go First,02:40,New Delhi,14:35,Srinagar,2 Stop(s),11h 55m,"4,250"
+835,99,Go First,22:30,New Delhi,"14:35
++ 1 day",Srinagar,2 Stop(s),16h 05m,"4,250"
+836,100,Go First,21:10,New Delhi,"14:35
++ 1 day",Srinagar,2 Stop(s),17h 25m,"4,250"
+837,101,SpiceJet,07:55,New Delhi,09:25,Srinagar,Non Stop,1h 30m,"4,250"
+838,102,SpiceJet,08:55,New Delhi,10:25,Srinagar,Non Stop,1h 30m,"4,250"
+839,103,SpiceJet,15:05,New Delhi,16:40,Srinagar,Non Stop,1h 35m,"4,272"
+840,104,SpiceJet,09:05,New Delhi,12:05,Srinagar,1 Stop,3h 00m,"4,272"
+841,105,SpiceJet,09:05,New Delhi,13:30,Srinagar,1 Stop,4h 25m,"4,272"
+842,106,Air Asia,05:55,New Delhi,07:25,Srinagar,Non Stop,1h 30m,"4,272"
+843,107,Air Asia,11:20,New Delhi,12:50,Srinagar,Non Stop,1h 30m,"4,274"
+844,108,Air Asia,11:35,New Delhi,13:05,Srinagar,Non Stop,1h 30m,"4,274"
+845,109,Air Asia,14:55,New Delhi,16:25,Srinagar,Non Stop,1h 30m,"4,274"
+846,110,IndiGo,05:10,New Delhi,06:40,Srinagar,Non Stop,1h 30m,"4,195"
+847,111,IndiGo,15:15,New Delhi,16:45,Srinagar,Non Stop,1h 30m,"4,295"
+848,112,IndiGo,17:55,New Delhi,19:30,Srinagar,Non Stop,1h 35m,"4,295"
+849,113,Go First,20:00,New Delhi,22:00,Pune,Non Stop,2h 00m,"5,083"
+850,114,Air Asia,15:00,New Delhi,17:00,Pune,Non Stop,2h 00m,"5,455"
+851,115,Air Asia,23:05,New Delhi,"01:10
++ 1 day",Pune,Non Stop,2h 05m,"5,455"
+852,116,Air Asia,04:10,New Delhi,06:10,Pune,Non Stop,2h 00m,"5,455"
+853,117,Air India,19:00,New Delhi,21:10,Pune,Non Stop,2h 10m,"5,455"
+854,118,Air India,04:45,New Delhi,07:00,Pune,Non Stop,2h 15m,"5,714"
+855,119,Air India,15:55,New Delhi,18:10,Pune,Non Stop,2h 15m,"5,714"
+856,120,Air India,12:55,New Delhi,15:20,Pune,Non Stop,2h 25m,"5,852"
+857,121,Vistara,20:50,New Delhi,23:05,Pune,Non Stop,2h 15m,"5,928"
+858,122,Vistara,17:25,New Delhi,19:50,Pune,Non Stop,2h 25m,"5,928"
+859,123,Go First,18:30,New Delhi,20:20,Pune,Non Stop,1h 50m,"4,615"
+860,124,SpiceJet,17:35,New Delhi,19:45,Pune,Non Stop,2h 10m,"4,615"
+861,125,SpiceJet,09:20,New Delhi,11:35,Pune,Non Stop,2h 15m,"5,011"
+862,126,Air India,13:50,New Delhi,15:30,Patna,Non Stop,1h 40m,"5,011"
+863,127,Air India,16:45,New Delhi,18:35,Patna,Non Stop,1h 50m,"5,011"
+864,128,Go First,10:35,New Delhi,12:15,Patna,Non Stop,1h 40m,"5,011"
+865,129,Go First,11:30,New Delhi,13:10,Patna,Non Stop,1h 40m,"5,011"
+866,130,Go First,13:55,New Delhi,15:35,Patna,Non Stop,1h 40m,"5,114"
+867,131,Go First,17:55,New Delhi,19:40,Patna,Non Stop,1h 45m,"5,114"
+868,132,Go First,09:55,New Delhi,11:45,Patna,Non Stop,1h 50m,"5,115"
+869,133,IndiGo,08:45,New Delhi,10:25,Patna,Non Stop,1h 40m,"5,115"
+870,134,IndiGo,19:20,New Delhi,21:00,Patna,Non Stop,1h 40m,"5,639"
+871,135,Vistara,08:20,New Delhi,09:50,Patna,Non Stop,1h 30m,"5,639"
+872,136,Vistara,16:30,New Delhi,18:05,Patna,Non Stop,1h 35m,"5,639"
+873,137,IndiGo,10:10,New Delhi,11:45,Patna,Non Stop,1h 35m,"5,639"
+874,138,IndiGo,16:05,New Delhi,17:45,Patna,Non Stop,1h 40m,"2,096"
+875,139,IndiGo,18:00,New Delhi,19:50,Patna,Non Stop,1h 50m,"2,240"
+876,140,IndiGo,13:55,New Delhi,16:00,Patna,Non Stop,2h 05m,"2,240"
+877,141,Air India,04:55,New Delhi,06:55,Ahmedabad,Non Stop,2h 00m,"2,240"
+878,142,Go First,06:00,New Delhi,07:35,Ahmedabad,Non Stop,1h 35m,"2,592"
+879,143,Go First,16:40,New Delhi,18:20,Ahmedabad,Non Stop,1h 40m,"2,592"
+880,144,Go First,20:45,New Delhi,22:25,Ahmedabad,Non Stop,1h 40m,"2,592"
+881,145,IndiGo,05:00,New Delhi,06:35,Ahmedabad,Non Stop,1h 35m,"2,592"
+882,146,IndiGo,18:40,New Delhi,20:15,Ahmedabad,Non Stop,1h 35m,"2,592"
+883,147,IndiGo,20:20,New Delhi,21:55,Ahmedabad,Non Stop,1h 35m,"2,594"
+884,148,IndiGo,06:20,New Delhi,08:05,Ahmedabad,Non Stop,1h 45m,"2,739"
+885,149,IndiGo,23:40,New Delhi,"01:25
++ 1 day",Ahmedabad,Non Stop,1h 45m,"3,850"
+886,150,SpiceJet,20:30,New Delhi,22:10,Ahmedabad,Non Stop,1h 40m,"3,870"
+887,151,IndiGo,22:00,New Delhi,23:35,Ahmedabad,Non Stop,1h 35m,"4,298"
+888,152,Air India,04:55,New Delhi,22:05,Mumbai,1 Stop,17h 10m,"4,753"
+889,153,Go First,16:40,New Delhi,23:25,Mumbai,1 Stop,6h 45m,"4,817"
+890,154,IndiGo,23:40,New Delhi,"05:50
++ 1 day",Mumbai,1 Stop,6h 10m,"4,817"
+891,155,Vistara,21:20,New Delhi,"06:15
++ 1 day",Mumbai,1 Stop,8h 55m,"4,817"
+892,156,Air India,20:00,New Delhi,22:10,Mumbai,Non Stop,2h 10m,"4,817"
+893,157,Air India,07:00,New Delhi,09:15,Mumbai,Non Stop,2h 15m,"4,817"
+894,158,Air India,21:20,New Delhi,23:35,Mumbai,Non Stop,2h 15m,"4,817"
+895,159,Air India,22:30,New Delhi,"00:45
++ 1 day",Mumbai,Non Stop,2h 15m,"4,817"
+896,160,Air India,08:00,New Delhi,10:20,Mumbai,Non Stop,2h 20m,"4,817"
+897,161,Air India,09:00,New Delhi,11:20,Mumbai,Non Stop,2h 20m,"4,817"
+898,162,Air India,14:00,New Delhi,16:20,Mumbai,Non Stop,2h 20m,"4,817"
+899,163,Air India,10:00,New Delhi,12:25,Mumbai,Non Stop,2h 25m,"4,817"
+900,164,Air India,17:50,New Delhi,20:15,Mumbai,Non Stop,2h 25m,"5,029"
+901,165,Air India,19:00,New Delhi,21:25,Mumbai,Non Stop,2h 25m,"5,155"
+902,166,Air India,14:30,New Delhi,18:15,Mumbai,1 Stop,3h 45m,"4,470"
+903,167,IndiGo,13:20,New Delhi,20:00,Mumbai,1 Stop,6h 40m,"4,741"
+904,168,Go First,06:00,New Delhi,10:40,Mumbai,1 Stop,4h 40m,"4,741"
+905,169,Air Asia,19:05,New Delhi,21:45,Bangalore,Non Stop,2h 40m,"4,741"
+906,170,Air Asia,08:10,New Delhi,10:55,Bangalore,Non Stop,2h 45m,"4,741"
+907,171,Air India,06:10,New Delhi,08:55,Bangalore,Non Stop,2h 45m,"5,004"
+908,172,Air India,21:10,New Delhi,"00:05
++ 1 day",Bangalore,Non Stop,2h 55m,"5,004"
+909,173,Air India,07:30,New Delhi,10:30,Bangalore,Non Stop,3h 00m,"5,004"
+910,174,Air India,16:55,New Delhi,20:15,Bangalore,Non Stop,3h 20m,"5,137"
+911,175,Air India,09:45,New Delhi,12:30,Bangalore,Non Stop,2h 45m,"5,213"
+912,176,Air India,13:30,New Delhi,16:25,Bangalore,Non Stop,2h 55m,"5,213"
+913,177,Air India,14:55,New Delhi,18:20,Bangalore,Non Stop,3h 25m,"5,235"
+914,178,Go First,05:45,New Delhi,08:35,Bangalore,Non Stop,2h 50m,"5,235"
+915,179,SpiceJet,20:30,New Delhi,23:05,Bangalore,Non Stop,2h 35m,"5,237"
+916,180,SpiceJet,06:20,New Delhi,09:10,Bangalore,Non Stop,2h 50m,"5,237"
+917,181,Air Asia,21:20,New Delhi,23:55,Bangalore,Non Stop,2h 35m,"5,237"
+918,182,Air Asia,09:35,New Delhi,12:15,Bangalore,Non Stop,2h 40m,"6,293"
+919,183,Air Asia,16:20,New Delhi,19:05,Bangalore,Non Stop,2h 45m,"6,902"
+920,184,IndiGo,05:55,New Delhi,08:45,Bangalore,Non Stop,2h 50m,"6,978"
+921,185,IndiGo,04:20,New Delhi,07:15,Bangalore,Non Stop,2h 55m,"6,978"
+922,186,IndiGo,08:00,New Delhi,11:05,Bangalore,Non Stop,3h 05m,"6,978"
+923,187,Go First,21:30,New Delhi,"00:05
++ 1 day",Goa,Non Stop,2h 35m,"6,978"
+924,188,Go First,10:45,New Delhi,13:30,Goa,Non Stop,2h 45m,"7,002"
+925,189,SpiceJet,17:55,New Delhi,20:25,Goa,Non Stop,2h 30m,"7,004"
+926,190,SpiceJet,16:35,New Delhi,19:15,Goa,Non Stop,2h 40m,"7,004"
+927,191,SpiceJet,16:25,New Delhi,"07:10
++ 1 day",Goa,1 Stop,14h 45m,"7,004"
+928,192,SpiceJet,20:00,New Delhi,"22:20
++ 1 day",Goa,1 Stop,26h 20m,"7,005"
+929,193,Air Asia,20:10,New Delhi,22:35,Goa,Non Stop,2h 25m,"7,082"
+930,194,IndiGo,16:25,New Delhi,19:05,Goa,Non Stop,2h 40m,"7,082"
+931,195,IndiGo,17:40,New Delhi,20:20,Goa,Non Stop,2h 40m,"7,082"
+932,196,IndiGo,19:10,New Delhi,21:55,Goa,Non Stop,2h 45m,"7,082"
+933,197,Air Asia,13:35,New Delhi,17:35,Goa,1 Stop,4h 00m,"7,097"
+934,198,Air Asia,08:10,New Delhi,14:15,Goa,1 Stop,6h 05m,"7,188"
+935,199,Air Asia,21:20,New Delhi,"05:25
++ 1 day",Goa,1 Stop,8h 05m,"7,215"
+936,200,Air Asia,21:20,New Delhi,"06:45
++ 1 day",Goa,1 Stop,9h 25m,"7,215"
+937,201,Air Asia,07:15,New Delhi,17:35,Goa,1 Stop,10h 20m,"7,264"
+938,202,Go First,06:00,New Delhi,16:45,Goa,1 Stop,10h 45m,"7,543"
+939,203,SpiceJet,12:15,New Delhi,14:50,Goa,Non Stop,2h 35m,"7,940"
+940,204,Air Asia,05:10,New Delhi,07:40,Goa,Non Stop,2h 30m,"7,940"
+941,205,Air Asia,12:45,New Delhi,15:25,Goa,Non Stop,2h 40m,"7,942"
+942,206,IndiGo,23:40,New Delhi,"07:15
++ 1 day",Goa,1 Stop,7h 35m,"7,942"
+943,207,Air India,05:45,Mumbai,08:50,Kolkata,Non Stop,3h 05m,"7,942"
+944,208,Go First,07:10,Mumbai,09:40,Kolkata,Non Stop,2h 30m,"7,942"
+945,209,Go First,21:00,Mumbai,23:50,Kolkata,Non Stop,2h 50m,"7,942"
+946,210,Go First,23:45,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,8h 15m,"7,942"
+947,211,Go First,22:55,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,9h 05m,"7,942"
+948,212,Go First,12:15,Mumbai,21:45,Kolkata,1 Stop,9h 30m,"7,942"
+949,213,Go First,22:40,Mumbai,"08:20
++ 1 day",Kolkata,1 Stop,9h 40m,"7,942"
+950,214,Go First,06:10,Mumbai,16:30,Kolkata,1 Stop,10h 20m,"7,942"
+951,215,Go First,21:15,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,10h 45m,"7,942"
+952,216,Go First,20:35,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,11h 25m,"7,942"
+953,217,Go First,09:55,Mumbai,21:45,Kolkata,1 Stop,11h 50m,"8,017"
+954,218,Go First,08:05,Mumbai,21:45,Kolkata,1 Stop,13h 40m,"8,017"
+955,219,Go First,17:55,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,14h 05m,"8,017"
+956,220,Go First,17:05,Mumbai,"08:20
++ 1 day",Kolkata,1 Stop,15h 15m,"8,017"
+957,221,Go First,06:00,Mumbai,21:45,Kolkata,1 Stop,15h 45m,"8,017"
+958,222,SpiceJet,06:05,Mumbai,08:55,Kolkata,Non Stop,2h 50m,"6,818"
+959,223,SpiceJet,10:05,Mumbai,22:50,Kolkata,1 Stop,12h 45m,"6,818"
+960,224,SpiceJet,07:10,Mumbai,22:50,Kolkata,1 Stop,15h 40m,"6,818"
+961,225,SpiceJet,10:05,Mumbai,"07:45
++ 1 day",Kolkata,1 Stop,21h 40m,"6,818"
+962,226,SpiceJet,07:10,Mumbai,"07:45
++ 1 day",Kolkata,1 Stop,24h 35m,"6,818"
+963,227,Vistara,10:25,Mumbai,18:15,Chandigarh,1 Stop,7h 50m,"6,818"
+964,228,Vistara,07:30,Mumbai,18:15,Chandigarh,1 Stop,10h 45m,"6,818"
+965,229,Vistara,06:30,Mumbai,18:15,Chandigarh,1 Stop,11h 45m,"6,818"
+966,230,Vistara,22:45,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,19h 30m,"6,818"
+967,231,Vistara,21:55,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,20h 20m,"6,892"
+968,232,Vistara,20:55,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,21h 20m,"7,008"
+969,233,Vistara,19:45,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,22h 30m,"7,222"
+970,234,Vistara,18:30,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,23h 45m,"7,222"
+971,235,Vistara,15:45,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,26h 30m,"7,222"
+972,236,Go First,17:05,Mumbai,"07:25
++ 1 day",Chandigarh,1 Stop,14h 20m,"7,222"
+973,237,Go First,22:40,Mumbai,"07:25
++ 1 day",Chandigarh,1 Stop,8h 45m,"7,222"
+974,238,Vistara,12:25,Mumbai,18:15,Chandigarh,1 Stop,5h 50m,"7,222"
+975,239,Vistara,22:45,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,16h 00m,"7,222"
+976,240,Vistara,21:55,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,16h 50m,"7,222"
+977,241,Vistara,20:55,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,17h 50m,"7,308"
+978,242,Vistara,19:45,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,19h 00m,"2,790"
+979,243,Vistara,18:30,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,20h 15m,"2,814"
+980,244,Vistara,17:35,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,21h 10m,"3,179"
+981,245,Vistara,15:45,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,23h 00m,"3,318"
+982,246,IndiGo,20:05,Mumbai,22:35,Chandigarh,Non Stop,2h 30m,"3,318"
+983,247,SpiceJet,19:05,Mumbai,20:45,Chennai,Non Stop,1h 40m,"3,399"
+984,248,SpiceJet,05:50,Mumbai,08:00,Chennai,Non Stop,2h 10m,"3,399"
+985,249,IndiGo,19:40,Mumbai,21:35,Chennai,Non Stop,1h 55m,"3,399"
+986,250,Go First,05:45,Mumbai,07:40,Chennai,Non Stop,1h 55m,"3,469"
+987,251,Vistara,17:50,Mumbai,19:50,Chennai,Non Stop,2h 00m,"3,469"
+988,252,Vistara,06:45,Mumbai,08:50,Chennai,Non Stop,2h 05m,"3,500"
+989,253,IndiGo,17:20,Mumbai,22:30,Chennai,1 Stop,5h 10m,"3,500"
+990,254,IndiGo,12:35,Mumbai,18:35,Chennai,1 Stop,6h 00m,"3,500"
+991,255,IndiGo,12:35,Mumbai,19:25,Chennai,1 Stop,6h 50m,"3,500"
+992,256,Air India,19:05,Mumbai,20:55,Chennai,Non Stop,1h 50m,"2,923"
+993,257,Air India,05:25,Mumbai,07:25,Chennai,Non Stop,2h 00m,"3,113"
+994,258,IndiGo,08:50,Mumbai,10:40,Chennai,Non Stop,1h 50m,"3,113"
+995,259,IndiGo,15:35,Mumbai,17:25,Chennai,Non Stop,1h 50m,"3,113"
+996,260,IndiGo,22:40,Mumbai,"00:30
++ 1 day",Chennai,Non Stop,1h 50m,"3,113"
+997,261,IndiGo,05:35,Mumbai,07:30,Chennai,Non Stop,1h 55m,"3,396"
+998,262,Air India,05:00,Mumbai,06:20,Goa,Non Stop,1h 20m,"3,421"
+999,263,Go First,05:00,Mumbai,06:10,Goa,Non Stop,1h 10m,"3,421"
+1000,264,Go First,15:20,Mumbai,16:35,Goa,Non Stop,1h 15m,"3,421"
+1001,265,Go First,16:30,Mumbai,17:45,Goa,Non Stop,1h 15m,"3,532"
+1002,266,Go First,22:05,Mumbai,23:25,Goa,Non Stop,1h 20m,"3,532"
+1003,267,SpiceJet,21:05,Mumbai,22:20,Goa,Non Stop,1h 15m,"3,713"
+1004,268,Air Asia,23:30,Mumbai,"00:30
++ 1 day",Goa,Non Stop,1h 00m,"5,001"
+1005,269,Air Asia,01:15,Mumbai,02:25,Goa,Non Stop,1h 10m,"5,077"
+1006,270,Air Asia,03:55,Mumbai,05:15,Goa,Non Stop,1h 20m,"5,077"
+1007,271,Go First,11:30,Mumbai,12:45,Goa,Non Stop,1h 15m,"5,077"
+1008,272,Go First,09:10,Mumbai,10:30,Goa,Non Stop,1h 20m,"5,100"
+1009,273,SpiceJet,22:10,Mumbai,23:25,Goa,Non Stop,1h 15m,"5,103"
+1010,274,Go First,19:15,Mumbai,21:30,Jaipur,Non Stop,2h 15m,"5,128"
+1011,275,SpiceJet,06:10,Mumbai,08:00,Jaipur,Non Stop,1h 50m,"5,313"
+1012,276,SpiceJet,10:05,Mumbai,21:20,Jaipur,1 Stop,11h 15m,"5,314"
+1013,277,SpiceJet,07:10,Mumbai,21:20,Jaipur,1 Stop,14h 10m,"5,733"
+1014,278,Air Asia,15:30,Mumbai,17:25,Jaipur,Non Stop,1h 55m,"5,733"
+1015,279,Vistara,17:55,Mumbai,19:50,Jaipur,Non Stop,1h 55m,"3,725"
+1016,280,Air India,11:20,Mumbai,13:15,Jaipur,Non Stop,1h 55m,"3,725"
+1017,281,Vistara,11:45,Mumbai,13:35,Jaipur,Non Stop,1h 50m,"3,725"
+1018,282,Air Asia,08:15,Mumbai,10:15,Jaipur,Non Stop,2h 00m,"3,725"
+1019,283,IndiGo,15:00,Mumbai,16:45,Jaipur,Non Stop,1h 45m,"5,443"
+1020,284,IndiGo,19:55,Mumbai,21:40,Jaipur,Non Stop,1h 45m,"5,443"
+1021,285,Air Asia,21:45,Mumbai,"06:10
++ 1 day",Kochi,1 Stop,8h 25m,"5,841"
+1022,286,Air Asia,20:35,Mumbai,"06:10
++ 1 day",Kochi,1 Stop,9h 35m,"5,841"
+1023,287,Air Asia,19:40,Mumbai,"06:10
++ 1 day",Kochi,1 Stop,10h 30m,"2,151"
+1024,288,Air Asia,21:45,Mumbai,"11:55
++ 1 day",Kochi,1 Stop,14h 10m,"2,151"
+1025,289,Air India,05:30,Mumbai,07:30,Kochi,Non Stop,2h 00m,"2,441"
+1026,290,Air India,17:10,Mumbai,19:15,Kochi,Non Stop,2h 05m,"2,545"
+1027,291,Go First,06:40,Mumbai,08:40,Kochi,Non Stop,2h 00m,"2,975"
+1028,292,Go First,17:10,Mumbai,19:20,Kochi,Non Stop,2h 10m,"2,975"
+1029,293,Go First,12:15,Mumbai,13:20,Ahmedabad,Non Stop,1h 05m,"3,145"
+1030,294,Go First,22:40,Mumbai,23:50,Ahmedabad,Non Stop,1h 10m,"3,346"
+1031,295,Go First,17:05,Mumbai,18:15,Ahmedabad,Non Stop,1h 10m,"3,402"
+1032,296,IndiGo,00:30,Mumbai,01:45,Ahmedabad,Non Stop,1h 15m,"3,402"
+1033,297,IndiGo,15:40,Mumbai,17:00,Ahmedabad,Non Stop,1h 20m,"4,778"
+1034,298,IndiGo,17:55,Mumbai,19:20,Ahmedabad,Non Stop,1h 25m,"4,778"
+1035,299,IndiGo,13:10,Mumbai,14:15,Ahmedabad,Non Stop,1h 05m,"4,778"
+1036,300,Go First,07:50,Mumbai,08:55,Ahmedabad,Non Stop,1h 05m,"4,960"
+1037,301,Vistara,22:35,Mumbai,23:50,Ahmedabad,Non Stop,1h 15m,"4,960"
+1038,302,Vistara,20:00,Mumbai,21:25,Ahmedabad,Non Stop,1h 25m,"5,443"
+1039,303,Go First,17:05,Mumbai,"00:45
++ 1 day",New Delhi,1 Stop,7h 40m,"5,443"
+1040,304,Go First,12:55,Mumbai,20:40,New Delhi,1 Stop,7h 45m,"5,443"
+1041,305,Go First,12:15,Mumbai,20:40,New Delhi,1 Stop,8h 25m,"5,443"
+1042,306,Air India,18:35,Mumbai,"09:25
++ 1 day",New Delhi,1 Stop,14h 50m,"5,443"
+1043,307,Air India,18:35,Mumbai,"16:15
++ 1 day",New Delhi,1 Stop,21h 40m,"5,443"
+1044,308,Air India,07:00,Mumbai,09:15,New Delhi,Non Stop,2h 15m,"5,443"
+1045,309,Air India,08:00,Mumbai,10:15,New Delhi,Non Stop,2h 15m,"5,443"
+1046,310,Air India,10:00,Mumbai,12:15,New Delhi,Non Stop,2h 15m,"2,603"
+1047,311,Air India,13:00,Mumbai,15:15,New Delhi,Non Stop,2h 15m,"2,603"
+1048,312,Air India,09:00,Mumbai,11:20,New Delhi,Non Stop,2h 20m,"2,702"
+1049,313,Air India,18:00,Mumbai,20:20,New Delhi,Non Stop,2h 20m,"2,703"
+1050,314,Air India,19:00,Mumbai,21:20,New Delhi,Non Stop,2h 20m,"2,703"
+1051,315,Air India,15:30,Mumbai,17:55,New Delhi,Non Stop,2h 25m,"2,875"
+1052,316,Go First,06:10,Mumbai,07:35,Bangalore,Non Stop,1h 25m,"2,902"
+1053,317,Go First,21:35,Mumbai,23:30,Bangalore,Non Stop,1h 55m,"2,902"
+1054,318,IndiGo,23:10,Mumbai,"00:45
++ 1 day",Bangalore,Non Stop,1h 35m,"3,201"
+1055,319,Air Asia,20:35,Mumbai,22:15,Bangalore,Non Stop,1h 40m,"5,443"
+1056,320,Air Asia,19:40,Mumbai,21:40,Bangalore,Non Stop,2h 00m,"5,840"
+1057,321,Air Asia,21:45,Mumbai,23:50,Bangalore,Non Stop,2h 05m,"5,917"
+1058,322,IndiGo,16:45,Mumbai,18:40,Bangalore,Non Stop,1h 55m,"5,943"
+1059,323,IndiGo,06:05,Mumbai,07:50,Bangalore,Non Stop,1h 45m,"5,943"
+1060,324,IndiGo,18:50,Mumbai,20:40,Bangalore,Non Stop,1h 50m,"7,283"
+1061,325,IndiGo,09:50,Mumbai,11:30,Bangalore,Non Stop,1h 40m,"7,283"
+1062,326,Air India,10:25,Mumbai,12:40,Varanasi,Non Stop,2h 15m,"7,283"
+1063,327,Go First,11:05,Mumbai,13:20,Varanasi,Non Stop,2h 15m,"7,283"
+1064,328,SpiceJet,07:45,Mumbai,10:00,Varanasi,Non Stop,2h 15m,"7,810"
+1065,329,Vistara,13:20,Mumbai,15:35,Varanasi,Non Stop,2h 15m,"7,810"
+1066,330,IndiGo,19:15,Mumbai,21:30,Varanasi,Non Stop,2h 15m,"7,810"
+1067,331,SpiceJet,19:05,Mumbai,"07:35
++ 1 day",Varanasi,1 Stop,12h 30m,"7,543"
+1068,332,SpiceJet,10:05,Mumbai,"07:35
++ 1 day",Varanasi,1 Stop,21h 30m,"7,940"
+1069,333,SpiceJet,19:05,Mumbai,"18:00
++ 1 day",Varanasi,1 Stop,22h 55m,"7,940"
+1070,334,SpiceJet,07:10,Mumbai,"07:35
++ 1 day",Varanasi,1 Stop,24h 25m,"7,942"
+1071,335,Vistara,12:25,Mumbai,17:40,Varanasi,1 Stop,5h 15m,"7,942"
+1072,336,Vistara,08:45,Mumbai,14:45,Varanasi,1 Stop,6h 00m,"7,942"
+1073,337,Vistara,07:30,Mumbai,14:45,Varanasi,1 Stop,7h 15m,"7,942"
+1074,338,Air India,05:45,Mumbai,08:50,Kolkata,Non Stop,3h 05m,"7,942"
+1075,339,Go First,07:10,Mumbai,09:40,Kolkata,Non Stop,2h 30m,"7,942"
+1076,340,Go First,21:00,Mumbai,23:50,Kolkata,Non Stop,2h 50m,"7,942"
+1077,341,Go First,23:45,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,8h 15m,"7,942"
+1078,342,Go First,22:55,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,9h 05m,"7,942"
+1079,343,Go First,12:15,Mumbai,21:45,Kolkata,1 Stop,9h 30m,"7,942"
+1080,344,Go First,22:40,Mumbai,"08:20
++ 1 day",Kolkata,1 Stop,9h 40m,"7,942"
+1081,345,Go First,06:10,Mumbai,16:30,Kolkata,1 Stop,10h 20m,"7,942"
+1082,346,Go First,21:15,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,10h 45m,"8,017"
+1083,347,Go First,20:35,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,11h 25m,"8,017"
+1084,348,Go First,09:55,Mumbai,21:45,Kolkata,1 Stop,11h 50m,"8,017"
+1085,349,Go First,08:05,Mumbai,21:45,Kolkata,1 Stop,13h 40m,"8,017"
+1086,350,Go First,17:55,Mumbai,"08:00
++ 1 day",Kolkata,1 Stop,14h 05m,"8,017"
+1087,351,Go First,17:05,Mumbai,"08:20
++ 1 day",Kolkata,1 Stop,15h 15m,"6,818"
+1088,352,Go First,06:00,Mumbai,21:45,Kolkata,1 Stop,15h 45m,"6,818"
+1089,353,SpiceJet,06:05,Mumbai,08:55,Kolkata,Non Stop,2h 50m,"6,818"
+1090,354,SpiceJet,10:05,Mumbai,22:50,Kolkata,1 Stop,12h 45m,"6,818"
+1091,355,SpiceJet,07:10,Mumbai,22:50,Kolkata,1 Stop,15h 40m,"6,818"
+1092,356,SpiceJet,10:05,Mumbai,"07:45
++ 1 day",Kolkata,1 Stop,21h 40m,"6,818"
+1093,357,SpiceJet,07:10,Mumbai,"07:45
++ 1 day",Kolkata,1 Stop,24h 35m,"6,818"
+1094,358,Vistara,10:25,Mumbai,18:15,Chandigarh,1 Stop,7h 50m,"6,818"
+1095,359,Vistara,07:30,Mumbai,18:15,Chandigarh,1 Stop,10h 45m,"6,818"
+1096,360,Vistara,06:30,Mumbai,18:15,Chandigarh,1 Stop,11h 45m,"6,892"
+1097,361,Vistara,22:45,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,19h 30m,"7,008"
+1098,362,Vistara,21:55,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,20h 20m,"7,222"
+1099,363,Vistara,20:55,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,21h 20m,"7,222"
+1100,364,Vistara,19:45,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,22h 30m,"7,222"
+1101,365,Vistara,18:30,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,23h 45m,"7,222"
+1102,366,Vistara,15:45,Mumbai,"18:15
++ 1 day",Chandigarh,1 Stop,26h 30m,"7,222"
+1103,367,Go First,17:05,Mumbai,"07:25
++ 1 day",Chandigarh,1 Stop,14h 20m,"7,222"
+1104,368,Go First,22:40,Mumbai,"07:25
++ 1 day",Chandigarh,1 Stop,8h 45m,"7,222"
+1105,369,Vistara,12:25,Mumbai,18:15,Chandigarh,1 Stop,5h 50m,"7,222"
+1106,370,Vistara,22:45,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,16h 00m,"7,308"
+1107,371,Vistara,21:55,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,16h 50m,"2,790"
+1108,372,Vistara,20:55,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,17h 50m,"2,814"
+1109,373,Vistara,19:45,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,19h 00m,"3,179"
+1110,374,Vistara,18:30,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,20h 15m,"3,318"
+1111,375,Vistara,17:35,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,21h 10m,"3,318"
+1112,376,Vistara,15:45,Mumbai,"14:45
++ 1 day",Chandigarh,1 Stop,23h 00m,"3,399"
+1113,377,IndiGo,20:05,Mumbai,22:35,Chandigarh,Non Stop,2h 30m,"3,399"
+1114,378,SpiceJet,19:05,Mumbai,20:45,Chennai,Non Stop,1h 40m,"3,399"
+1115,379,SpiceJet,05:50,Mumbai,08:00,Chennai,Non Stop,2h 10m,"3,469"
+1116,380,IndiGo,19:40,Mumbai,21:35,Chennai,Non Stop,1h 55m,"3,469"
+1117,381,Go First,05:45,Mumbai,07:40,Chennai,Non Stop,1h 55m,"3,500"
+1118,382,Vistara,17:50,Mumbai,19:50,Chennai,Non Stop,2h 00m,"3,500"
+1119,383,Vistara,06:45,Mumbai,08:50,Chennai,Non Stop,2h 05m,"3,500"
+1120,384,IndiGo,17:20,Mumbai,22:30,Chennai,1 Stop,5h 10m,"3,500"
+1121,385,IndiGo,12:35,Mumbai,18:35,Chennai,1 Stop,6h 00m,"2,923"
+1122,386,IndiGo,12:35,Mumbai,19:25,Chennai,1 Stop,6h 50m,"3,113"
+1123,387,Air India,19:05,Mumbai,20:55,Chennai,Non Stop,1h 50m,"3,113"
+1124,388,Air India,05:25,Mumbai,07:25,Chennai,Non Stop,2h 00m,"3,113"
+1125,389,IndiGo,08:50,Mumbai,10:40,Chennai,Non Stop,1h 50m,"3,113"
+1126,390,IndiGo,15:35,Mumbai,17:25,Chennai,Non Stop,1h 50m,"3,396"
+1127,391,IndiGo,22:40,Mumbai,"00:30
++ 1 day",Chennai,Non Stop,1h 50m,"3,421"
+1128,392,IndiGo,05:35,Mumbai,07:30,Chennai,Non Stop,1h 55m,"3,421"
+1129,393,Air India,05:00,Mumbai,06:20,Goa,Non Stop,1h 20m,"3,421"
+1130,394,Go First,05:00,Mumbai,06:10,Goa,Non Stop,1h 10m,"3,532"
+1131,395,Go First,15:20,Mumbai,16:35,Goa,Non Stop,1h 15m,"3,532"
+1132,396,Go First,16:30,Mumbai,17:45,Goa,Non Stop,1h 15m,"3,713"
+1133,397,Go First,22:05,Mumbai,23:25,Goa,Non Stop,1h 20m,"5,001"
+1134,398,SpiceJet,21:05,Mumbai,22:20,Goa,Non Stop,1h 15m,"5,077"
+1135,399,Air Asia,23:30,Mumbai,"00:30
++ 1 day",Goa,Non Stop,1h 00m,"5,077"
+1136,400,Air Asia,01:15,Mumbai,02:25,Goa,Non Stop,1h 10m,"5,077"
+1137,401,Air Asia,03:55,Mumbai,05:15,Goa,Non Stop,1h 20m,"5,100"
+1138,402,Go First,11:30,Mumbai,12:45,Goa,Non Stop,1h 15m,"5,103"
+1139,403,Go First,09:10,Mumbai,10:30,Goa,Non Stop,1h 20m,"5,128"
+1140,404,SpiceJet,22:10,Mumbai,23:25,Goa,Non Stop,1h 15m,"5,313"
+1141,405,Go First,19:15,Mumbai,21:30,Jaipur,Non Stop,2h 15m,"5,314"
+1142,406,SpiceJet,06:10,Mumbai,08:00,Jaipur,Non Stop,1h 50m,"5,733"
+1143,407,SpiceJet,10:05,Mumbai,21:20,Jaipur,1 Stop,11h 15m,"5,733"
+1144,408,SpiceJet,07:10,Mumbai,21:20,Jaipur,1 Stop,14h 10m,"3,725"
+1145,409,Air Asia,15:30,Mumbai,17:25,Jaipur,Non Stop,1h 55m,"3,725"
+1146,410,Vistara,17:55,Mumbai,19:50,Jaipur,Non Stop,1h 55m,"3,725"
+1147,411,Air India,11:20,Mumbai,13:15,Jaipur,Non Stop,1h 55m,"3,725"
+1148,412,Vistara,11:45,Mumbai,13:35,Jaipur,Non Stop,1h 50m,"5,443"
+1149,413,Air Asia,08:15,Mumbai,10:15,Jaipur,Non Stop,2h 00m,"5,443"
+1150,414,IndiGo,15:00,Mumbai,16:45,Jaipur,Non Stop,1h 45m,"5,841"
+1151,415,IndiGo,19:55,Mumbai,21:40,Jaipur,Non Stop,1h 45m,"5,841"
+1152,416,Air Asia,21:45,Mumbai,"06:10
++ 1 day",Kochi,1 Stop,8h 25m,"2,151"
+1153,417,Air Asia,20:35,Mumbai,"06:10
++ 1 day",Kochi,1 Stop,9h 35m,"2,151"
+1154,418,Air Asia,19:40,Mumbai,"06:10
++ 1 day",Kochi,1 Stop,10h 30m,"2,441"
+1155,419,Air Asia,21:45,Mumbai,"11:55
++ 1 day",Kochi,1 Stop,14h 10m,"2,545"
+1156,420,Air India,05:30,Mumbai,07:30,Kochi,Non Stop,2h 00m,"2,975"
+1157,421,Air India,17:10,Mumbai,19:15,Kochi,Non Stop,2h 05m,"2,975"
+1158,422,Go First,06:40,Mumbai,08:40,Kochi,Non Stop,2h 00m,"3,145"
+1159,423,Go First,17:10,Mumbai,19:20,Kochi,Non Stop,2h 10m,"3,346"
+1160,424,Go First,12:15,Mumbai,13:20,Ahmedabad,Non Stop,1h 05m,"3,402"
+1161,425,Go First,22:40,Mumbai,23:50,Ahmedabad,Non Stop,1h 10m,"3,402"
+1162,426,Go First,17:05,Mumbai,18:15,Ahmedabad,Non Stop,1h 10m,"4,659"
+1163,427,IndiGo,00:30,Mumbai,01:45,Ahmedabad,Non Stop,1h 15m,"4,685"
+1164,428,IndiGo,15:40,Mumbai,17:00,Ahmedabad,Non Stop,1h 20m,"4,685"
+1165,429,IndiGo,17:55,Mumbai,19:20,Ahmedabad,Non Stop,1h 25m,"4,687"
+1166,430,IndiGo,13:10,Mumbai,14:15,Ahmedabad,Non Stop,1h 05m,"4,687"
+1167,431,Go First,07:50,Mumbai,08:55,Ahmedabad,Non Stop,1h 05m,"4,687"
+1168,432,Vistara,22:35,Mumbai,23:50,Ahmedabad,Non Stop,1h 15m,"4,687"
+1169,433,Vistara,20:00,Mumbai,21:25,Ahmedabad,Non Stop,1h 25m,"4,687"
+1170,434,SpiceJet,05:30,Hyderabad,07:10,Goa,Non Stop,1h 40m,"4,687"
+1171,435,Air Asia,17:25,Hyderabad,18:45,Goa,Non Stop,1h 20m,"4,687"
+1172,436,Air Asia,17:55,Hyderabad,19:20,Goa,Non Stop,1h 25m,"4,687"
+1173,437,IndiGo,23:00,Hyderabad,"00:20
++ 1 day",Goa,Non Stop,1h 20m,"4,687"
+1174,438,IndiGo,17:00,Hyderabad,21:10,Goa,1 Stop,4h 10m,"4,687"
+1175,439,IndiGo,18:05,Hyderabad,23:05,Goa,1 Stop,5h 00m,"4,765"
+1176,440,IndiGo,13:50,Hyderabad,19:55,Goa,1 Stop,6h 05m,"4,765"
+1177,441,IndiGo,17:00,Hyderabad,23:05,Goa,1 Stop,6h 05m,"4,765"
+1178,442,IndiGo,11:10,Hyderabad,18:15,Goa,1 Stop,7h 05m,"4,765"
+1179,443,IndiGo,23:55,Hyderabad,"07:35
++ 1 day",Goa,1 Stop,7h 40m,"4,765"
+1180,444,IndiGo,11:40,Hyderabad,21:10,Goa,1 Stop,9h 30m,"4,765"
+1181,445,IndiGo,10:15,Hyderabad,19:55,Goa,1 Stop,9h 40m,"4,792"
+1182,446,IndiGo,07:40,Hyderabad,18:15,Goa,1 Stop,10h 35m,"3,423"
+1183,447,Air Asia,21:45,Hyderabad,"05:25
++ 1 day",Goa,1 Stop,7h 40m,"3,845"
+1184,448,Air Asia,21:00,Hyderabad,"05:25
++ 1 day",Goa,1 Stop,8h 25m,"3,845"
+1185,449,Air Asia,21:45,Hyderabad,"06:45
++ 1 day",Goa,1 Stop,9h 00m,"3,845"
+1186,450,Air Asia,19:40,Hyderabad,"05:25
++ 1 day",Goa,1 Stop,9h 45m,"3,845"
+1187,451,Air Asia,21:00,Hyderabad,"06:45
++ 1 day",Goa,1 Stop,9h 45m,"3,847"
+1188,452,Air Asia,19:40,Hyderabad,"06:45
++ 1 day",Goa,1 Stop,11h 05m,"3,847"
+1189,453,IndiGo,05:35,Hyderabad,07:00,Goa,Non Stop,1h 25m,"3,847"
+1190,454,Alliance Air,22:00,Hyderabad,23:35,Bangalore,Non Stop,1h 35m,"3,847"
+1191,455,Air Asia,14:20,Hyderabad,15:30,Bangalore,Non Stop,1h 10m,"3,847"
+1192,456,Air Asia,19:40,Hyderabad,20:50,Bangalore,Non Stop,1h 10m,"3,847"
+1193,457,Air Asia,21:00,Hyderabad,22:10,Bangalore,Non Stop,1h 10m,"3,847"
+1194,458,Air Asia,21:45,Hyderabad,23:15,Bangalore,Non Stop,1h 30m,"3,848"
+1195,459,IndiGo,17:00,Hyderabad,18:10,Bangalore,Non Stop,1h 10m,"3,953"
+1196,460,IndiGo,05:20,Hyderabad,06:35,Bangalore,Non Stop,1h 15m,"4,058"
+1197,461,IndiGo,18:05,Hyderabad,19:20,Bangalore,Non Stop,1h 15m,"6,266"
+1198,462,IndiGo,23:55,Hyderabad,"01:10
++ 1 day",Bangalore,Non Stop,1h 15m,"6,341"
+1199,463,IndiGo,06:50,Hyderabad,08:10,Bangalore,Non Stop,1h 20m,"6,341"
+1200,464,IndiGo,11:40,Hyderabad,13:00,Bangalore,Non Stop,1h 20m,"6,367"
+1201,465,IndiGo,20:50,Hyderabad,22:10,Bangalore,Non Stop,1h 20m,"6,367"
+1202,466,Vistara,18:25,Hyderabad,19:30,Bangalore,Non Stop,1h 05m,"6,367"
+1203,467,Alliance Air,07:25,Hyderabad,08:50,Bangalore,Non Stop,1h 25m,"6,367"
+1204,468,Vistara,07:20,Hyderabad,08:30,Bangalore,Non Stop,1h 10m,"6,367"
+1205,469,Go First,05:00,Hyderabad,07:15,New Delhi,Non Stop,2h 15m,"6,367"
+1206,470,SpiceJet,06:20,Hyderabad,10:40,New Delhi,1 Stop,4h 20m,"6,367"
+1207,471,SpiceJet,19:25,Hyderabad,"08:15
++ 1 day",New Delhi,1 Stop,12h 50m,"6,393"
+1208,472,IndiGo,06:45,Hyderabad,09:05,New Delhi,Non Stop,2h 20m,"6,393"
+1209,473,IndiGo,05:05,Hyderabad,07:30,New Delhi,Non Stop,2h 25m,"6,445"
+1210,474,IndiGo,11:50,Hyderabad,14:15,New Delhi,Non Stop,2h 25m,"6,445"
+1211,475,IndiGo,16:30,Hyderabad,18:55,New Delhi,Non Stop,2h 25m,"6,445"
+1212,476,IndiGo,20:15,Hyderabad,22:40,New Delhi,Non Stop,2h 25m,"6,445"
+1213,477,IndiGo,22:45,Hyderabad,"01:10
++ 1 day",New Delhi,Non Stop,2h 25m,"6,787"
+1214,478,IndiGo,18:10,Hyderabad,20:40,New Delhi,Non Stop,2h 30m,"6,787"
+1215,479,IndiGo,21:35,Hyderabad,"00:05
++ 1 day",New Delhi,Non Stop,2h 30m,"6,867"
+1216,480,Air India,16:25,Hyderabad,18:45,New Delhi,Non Stop,2h 20m,"3,794"
+1217,481,Air India,06:25,Hyderabad,08:55,New Delhi,Non Stop,2h 30m,"4,687"
+1218,482,Air Asia,19:40,Hyderabad,"01:25
++ 1 day",New Delhi,1 Stop,5h 45m,"4,687"
+1219,483,Air Asia,14:40,Hyderabad,23:05,New Delhi,1 Stop,8h 25m,"4,687"
+1220,484,Air Asia,14:30,Hyderabad,23:05,New Delhi,1 Stop,8h 35m,"4,687"
+1221,485,Air Asia,21:45,Hyderabad,"08:55
++ 1 day",New Delhi,1 Stop,11h 10m,"4,687"
+1222,486,IndiGo,14:10,Hyderabad,16:30,New Delhi,Non Stop,2h 20m,"4,687"
+1223,487,IndiGo,09:30,Hyderabad,12:00,New Delhi,Non Stop,2h 30m,"4,687"
+1224,488,SpiceJet,06:05,Hyderabad,08:20,New Delhi,Non Stop,2h 15m,"4,687"
+1225,489,Air Asia,11:10,Hyderabad,12:25,Chennai,Non Stop,1h 15m,"4,688"
+1226,490,IndiGo,23:50,Hyderabad,"01:05
++ 1 day",Chennai,Non Stop,1h 15m,"4,765"
+1227,491,IndiGo,10:15,Hyderabad,11:35,Chennai,Non Stop,1h 20m,"4,765"
+1228,492,IndiGo,21:10,Hyderabad,22:30,Chennai,Non Stop,1h 20m,"4,765"
+1229,493,IndiGo,07:05,Hyderabad,08:30,Chennai,Non Stop,1h 25m,"4,765"
+1230,494,IndiGo,19:00,Hyderabad,20:25,Chennai,Non Stop,1h 25m,"4,765"
+1231,495,IndiGo,20:20,Hyderabad,21:45,Chennai,Non Stop,1h 25m,"4,765"
+1232,496,IndiGo,05:35,Hyderabad,07:05,Chennai,Non Stop,1h 30m,"3,348"
+1233,497,IndiGo,13:50,Hyderabad,15:20,Chennai,Non Stop,1h 30m,"4,137"
+1234,498,Alliance Air,07:25,Hyderabad,09:00,Chennai,Non Stop,1h 35m,"4,137"
+1235,499,Air Asia,21:45,Hyderabad,"06:25
++ 1 day",Chennai,1 Stop,8h 40m,"4,137"
+1236,500,Air Asia,21:00,Hyderabad,"06:25
++ 1 day",Chennai,1 Stop,9h 25m,"4,267"
+1237,501,Air Asia,19:40,Hyderabad,"06:25
++ 1 day",Chennai,1 Stop,10h 45m,"4,267"
+1238,502,Air Asia,21:45,Hyderabad,"08:35
++ 1 day",Chennai,1 Stop,10h 50m,"4,267"
+1239,503,Air Asia,21:00,Hyderabad,"08:35
++ 1 day",Chennai,1 Stop,11h 35m,"4,267"
+1240,504,Air Asia,19:40,Hyderabad,"08:35
++ 1 day",Chennai,1 Stop,12h 55m,"4,915"
+1241,505,Air India,12:40,Hyderabad,13:55,Tirupati,Non Stop,1h 15m,"4,915"
+1242,506,SpiceJet,18:25,Hyderabad,19:40,Tirupati,Non Stop,1h 15m,"4,915"
+1243,507,SpiceJet,06:00,Hyderabad,07:20,Tirupati,Non Stop,1h 20m,"5,336"
+1244,508,SpiceJet,09:25,Hyderabad,10:45,Tirupati,Non Stop,1h 20m,"5,742"
+1245,509,IndiGo,13:00,Hyderabad,14:05,Tirupati,Non Stop,1h 05m,"5,742"
+1246,510,IndiGo,18:20,Hyderabad,19:30,Tirupati,Non Stop,1h 10m,"6,052"
+1247,511,IndiGo,15:45,Hyderabad,17:10,Tirupati,Non Stop,1h 25m,"6,472"
+1248,512,IndiGo,05:55,Hyderabad,07:30,Tirupati,Non Stop,1h 35m,"4,687"
+1249,513,Air Asia,21:45,Hyderabad,"06:10
++ 1 day",Kochi,1 Stop,8h 25m,"4,687"
+1250,514,Air Asia,21:00,Hyderabad,"06:10
++ 1 day",Kochi,1 Stop,9h 10m,"4,687"
+1251,515,Air Asia,21:45,Hyderabad,"11:55
++ 1 day",Kochi,1 Stop,14h 10m,"4,687"
+1252,516,Air Asia,19:40,Hyderabad,"06:10
++ 1 day",Kochi,1 Stop,10h 30m,"4,687"
+1253,517,Air Asia,14:20,Hyderabad,20:05,Kochi,1 Stop,5h 45m,"4,687"
+1254,518,Air Asia,14:20,Hyderabad,22:25,Kochi,1 Stop,8h 05m,"6,590"
+1255,519,IndiGo,19:15,Hyderabad,20:55,Kochi,Non Stop,1h 40m,"6,365"
+1256,520,IndiGo,21:40,Hyderabad,23:20,Kochi,Non Stop,1h 40m,"6,365"
+1257,521,IndiGo,17:05,Hyderabad,18:05,Visakhapatnam,Non Stop,1h 00m,"6,365"
+1258,522,IndiGo,06:30,Hyderabad,07:35,Visakhapatnam,Non Stop,1h 05m,"6,365"
+1259,523,IndiGo,10:40,Hyderabad,11:50,Visakhapatnam,Non Stop,1h 10m,"6,365"
+1260,524,IndiGo,13:00,Hyderabad,14:10,Visakhapatnam,Non Stop,1h 10m,"6,525"
+1261,525,IndiGo,14:45,Hyderabad,15:55,Visakhapatnam,Non Stop,1h 10m,"6,682"
+1262,526,IndiGo,20:45,Hyderabad,21:55,Visakhapatnam,Non Stop,1h 10m,"6,682"
+1263,527,IndiGo,11:15,Hyderabad,18:55,Visakhapatnam,1 Stop,7h 40m,"6,912"
+1264,528,IndiGo,23:00,Hyderabad,"04:10
++ 1 day",Jaipur,1 Stop,5h 10m,"6,912"
+1265,529,IndiGo,14:40,Hyderabad,20:55,Jaipur,1 Stop,6h 15m,"6,912"
+1266,530,IndiGo,20:20,Hyderabad,"04:10
++ 1 day",Jaipur,1 Stop,7h 50m,"6,997"
+1267,531,IndiGo,11:10,Hyderabad,20:55,Jaipur,1 Stop,9h 45m,"4,188"
+1268,532,IndiGo,07:10,Hyderabad,17:35,Jaipur,1 Stop,10h 25m,"4,188"
+1269,533,IndiGo,06:05,Hyderabad,13:25,Jaipur,1 Stop,7h 20m,"4,188"
+1270,534,Air Asia,09:20,Hyderabad,11:20,Jaipur,Non Stop,2h 00m,"4,687"
+1271,535,Air Asia,14:40,Hyderabad,16:40,Jaipur,Non Stop,2h 00m,"4,687"
+1272,536,Vistara,12:55,Hyderabad,19:50,Jaipur,1 Stop,6h 55m,"4,687"
+1273,537,Vistara,08:30,Hyderabad,19:50,Jaipur,1 Stop,11h 20m,"4,687"
+1274,538,Vistara,07:10,Hyderabad,19:50,Jaipur,1 Stop,12h 40m,"4,687"
+1275,539,IndiGo,20:05,Hyderabad,22:10,Jaipur,Non Stop,2h 05m,"4,687"
+1276,540,Air India,08:15,Hyderabad,09:55,Mumbai,Non Stop,1h 40m,"4,687"
+1277,541,Air India,13:15,Hyderabad,14:55,Mumbai,Non Stop,1h 40m,"4,687"
+1278,542,Air India,22:25,Hyderabad,"00:05
++ 1 day",Mumbai,Non Stop,1h 40m,"4,688"
+1279,543,IndiGo,04:30,Hyderabad,05:55,Mumbai,Non Stop,1h 25m,"4,688"
+1280,544,IndiGo,18:15,Hyderabad,19:45,Mumbai,Non Stop,1h 30m,"4,688"
+1281,545,IndiGo,06:45,Hyderabad,08:20,Mumbai,Non Stop,1h 35m,"4,688"
+1282,546,IndiGo,07:40,Hyderabad,09:15,Mumbai,Non Stop,1h 35m,"4,765"
+1283,547,IndiGo,11:10,Hyderabad,12:45,Mumbai,Non Stop,1h 35m,"4,765"
+1284,548,IndiGo,15:20,Hyderabad,16:55,Mumbai,Non Stop,1h 35m,"4,765"
+1285,549,IndiGo,19:35,Hyderabad,21:10,Mumbai,Non Stop,1h 35m,"4,765"
+1286,550,IndiGo,22:30,Hyderabad,"00:15
++ 1 day",Mumbai,Non Stop,1h 45m,"4,765"
+1287,551,Vistara,21:35,Hyderabad,23:00,Mumbai,Non Stop,1h 25m,"5,524"
+1288,552,Vistara,07:10,Hyderabad,08:40,Mumbai,Non Stop,1h 30m,"5,524"
+1289,553,Vistara,08:30,Hyderabad,10:00,Mumbai,Non Stop,1h 30m,"5,524"
+1290,554,Vistara,12:55,Hyderabad,14:30,Mumbai,Non Stop,1h 35m,"6,467"
+1291,555,Air Asia,14:20,Hyderabad,19:00,Mumbai,1 Stop,4h 40m,"6,472"
+1292,556,Air Asia,14:20,Hyderabad,21:00,Mumbai,1 Stop,6h 40m,"6,838"
+1293,557,Air Asia,17:55,Hyderabad,"02:20
++ 1 day",Mumbai,1 Stop,8h 25m,"6,838"
+1294,558,Air Asia,17:55,Hyderabad,"04:00
++ 1 day",Mumbai,1 Stop,10h 05m,"6,838"
+1295,559,Air Asia,14:20,Hyderabad,"00:40
++ 1 day",Mumbai,1 Stop,10h 20m,"6,838"
+1296,560,IndiGo,05:50,Hyderabad,07:40,Ahmedabad,Non Stop,1h 50m,"6,838"
+1297,561,IndiGo,21:00,Hyderabad,22:50,Ahmedabad,Non Stop,1h 50m,"7,023"
+1298,562,IndiGo,16:25,Hyderabad,18:20,Ahmedabad,Non Stop,1h 55m,"7,023"
+1299,563,Air India,22:25,Hyderabad,"19:55
++ 1 day",Ahmedabad,1 Stop,21h 30m,"6,507"
+1300,564,IndiGo,13:45,Hyderabad,15:40,Ahmedabad,Non Stop,1h 55m,"6,507"
+1301,565,Vistara,12:55,Hyderabad,21:25,Ahmedabad,1 Stop,8h 30m,"6,507"
+1302,566,Vistara,08:30,Hyderabad,21:25,Ahmedabad,1 Stop,12h 55m,"6,507"
+1303,567,Vistara,07:10,Hyderabad,21:25,Ahmedabad,1 Stop,14h 15m,"6,507"
+1304,568,Vistara,21:35,Hyderabad,"21:25
++ 1 day",Ahmedabad,1 Stop,23h 50m,"6,507"
+1305,569,Vistara,21:35,Hyderabad,"23:50
++ 1 day",Ahmedabad,1 Stop,26h 15m,"6,507"
+1306,570,Air India,13:15,Hyderabad,19:55,Ahmedabad,1 Stop,6h 40m,"6,507"
+1307,571,Air India,08:15,Hyderabad,19:55,Ahmedabad,1 Stop,11h 40m,"6,507"
+1308,572,IndiGo,04:45,Kolkata,09:45,Bangalore,1 Stop,5h 00m,"6,507"
+1309,573,IndiGo,05:25,Kolkata,11:15,Bangalore,1 Stop,5h 50m,"6,507"
+1310,574,IndiGo,17:25,Kolkata,"00:05
++ 1 day",Bangalore,1 Stop,6h 40m,"6,507"
+1311,575,IndiGo,09:50,Kolkata,16:35,Bangalore,1 Stop,6h 45m,"6,507"
+1312,576,IndiGo,15:15,Kolkata,22:00,Bangalore,1 Stop,6h 45m,"7,605"
+1313,577,IndiGo,17:40,Kolkata,"00:45
++ 1 day",Bangalore,1 Stop,7h 05m,"7,605"
+1314,578,IndiGo,18:25,Kolkata,"01:40
++ 1 day",Bangalore,1 Stop,7h 15m,"7,605"
+1315,579,IndiGo,07:55,Kolkata,15:20,Bangalore,1 Stop,7h 25m,"7,605"
+1316,580,IndiGo,18:20,Kolkata,"01:45
++ 1 day",Bangalore,1 Stop,7h 25m,"7,605"
+1317,581,IndiGo,18:35,Kolkata,"02:00
++ 1 day",Bangalore,1 Stop,7h 25m,"7,872"
+1318,582,IndiGo,12:40,Kolkata,20:15,Bangalore,1 Stop,7h 35m,"7,872"
+1319,583,IndiGo,01:45,Kolkata,09:35,Bangalore,1 Stop,7h 50m,"7,872"
+1320,584,IndiGo,06:10,Kolkata,14:10,Bangalore,1 Stop,8h 00m,"7,872"
+1321,585,Air Asia,20:45,Kolkata,"03:55
++ 1 day",New Delhi,1 Stop,7h 10m,"7,872"
+1322,586,Air Asia,16:10,Kolkata,"01:05
++ 1 day",New Delhi,1 Stop,8h 55m,"7,872"
+1323,587,Air Asia,13:05,Kolkata,"01:05
++ 1 day",New Delhi,1 Stop,12h 00m,"7,557"
+1324,588,Air Asia,20:45,Kolkata,"08:55
++ 1 day",New Delhi,1 Stop,12h 10m,"7,557"
+1325,589,Air Asia,08:45,Kolkata,22:15,New Delhi,1 Stop,13h 30m,"7,557"
+1326,590,IndiGo,18:05,Kolkata,"00:25
++ 1 day",New Delhi,1 Stop,6h 20m,"7,557"
+1327,591,IndiGo,05:25,Kolkata,12:00,New Delhi,1 Stop,6h 35m,"7,557"
+1328,592,IndiGo,01:45,Kolkata,09:15,New Delhi,1 Stop,7h 30m,"8,107"
+1329,593,IndiGo,06:10,Kolkata,14:15,New Delhi,1 Stop,8h 05m,"8,506"
+1330,594,IndiGo,01:45,Kolkata,10:00,New Delhi,1 Stop,8h 15m,"8,506"
+1331,595,IndiGo,23:15,Kolkata,"07:30
++ 1 day",New Delhi,1 Stop,8h 15m,"8,506"
+1332,596,IndiGo,10:00,Kolkata,16:30,Mumbai,1 Stop,6h 30m,"8,506"
+1333,597,IndiGo,21:40,Kolkata,"04:15
++ 1 day",Mumbai,1 Stop,6h 35m,"7,454"
+1334,598,IndiGo,04:45,Kolkata,11:40,Mumbai,1 Stop,6h 55m,"7,531"
+1335,599,IndiGo,14:20,Kolkata,21:15,Mumbai,1 Stop,6h 55m,"7,531"
+1336,600,IndiGo,13:55,Kolkata,21:10,Mumbai,1 Stop,7h 15m,"7,557"
+1337,601,Air India,09:30,Kolkata,12:40,Mumbai,Non Stop,3h 10m,"7,557"
+1338,602,Go First,14:20,Kolkata,20:05,Mumbai,1 Stop,5h 45m,"7,872"
+1339,603,Go First,14:20,Kolkata,21:50,Mumbai,1 Stop,7h 30m,"11,127"
+1340,604,Go First,14:20,Kolkata,23:25,Mumbai,1 Stop,9h 05m,"14,172"
+1341,605,Go First,14:20,Kolkata,"00:40
++ 1 day",Mumbai,1 Stop,10h 20m,"3,342"
+1342,606,Go First,08:35,Kolkata,10:55,Port Blair,Non Stop,2h 20m,"3,342"
+1343,607,SpiceJet,08:30,Kolkata,10:40,Port Blair,Non Stop,2h 10m,"3,791"
+1344,608,SpiceJet,09:50,Kolkata,12:00,Port Blair,Non Stop,2h 10m,"3,842"
+1345,609,Vistara,09:00,Kolkata,11:20,Port Blair,Non Stop,2h 20m,"3,842"
+1346,610,IndiGo,09:10,Kolkata,11:30,Port Blair,Non Stop,2h 20m,"3,842"
+1347,611,IndiGo,05:45,Kolkata,08:15,Port Blair,Non Stop,2h 30m,"3,842"
+1348,612,IndiGo,04:45,Kolkata,13:00,Port Blair,1 Stop,8h 15m,"3,842"
+1349,613,IndiGo,23:15,Kolkata,"09:00
++ 1 day",Port Blair,1 Stop,9h 45m,"3,842"
+1350,614,Air India,05:55,Kolkata,07:05,Guwahati,Non Stop,1h 10m,"3,942"
+1351,615,Air India,10:30,Kolkata,11:45,Guwahati,Non Stop,1h 15m,"4,442"
+1352,616,FlyBig,20:00,Kolkata,21:30,Guwahati,Non Stop,1h 30m,"6,507"
+1353,617,IndiGo,19:25,Kolkata,20:25,Guwahati,Non Stop,1h 00m,"7,057"
+1354,618,IndiGo,04:50,Kolkata,05:55,Guwahati,Non Stop,1h 05m,"7,557"
+1355,619,IndiGo,10:05,Kolkata,11:10,Guwahati,Non Stop,1h 05m,"7,557"
+1356,620,IndiGo,06:35,Kolkata,07:45,Guwahati,Non Stop,1h 10m,"7,557"
+1357,621,IndiGo,15:20,Kolkata,16:30,Guwahati,Non Stop,1h 10m,"7,605"
+1358,622,IndiGo,21:15,Kolkata,22:25,Guwahati,Non Stop,1h 10m,"8,292"
+1359,623,Go First,09:20,Kolkata,10:35,Guwahati,Non Stop,1h 15m,"8,292"
+1360,624,Alliance Air,05:30,Kolkata,07:00,Guwahati,Non Stop,1h 30m,"8,328"
+1361,625,IndiGo,04:50,Kolkata,11:50,Chennai,1 Stop,7h 00m,"3,741"
+1362,626,Air India,16:55,Kolkata,19:20,Chennai,Non Stop,2h 25m,"3,817"
+1363,627,IndiGo,22:50,Kolkata,"01:15
++ 1 day",Chennai,Non Stop,2h 25m,"3,840"
+1364,628,IndiGo,04:45,Kolkata,07:15,Chennai,Non Stop,2h 30m,"6,010"
+1365,629,IndiGo,08:15,Kolkata,11:00,Chennai,Non Stop,2h 45m,"10,315"
+1366,630,Air Asia,07:30,Kolkata,12:25,Chennai,1 Stop,4h 55m,"10,315"
+1367,631,IndiGo,11:25,Kolkata,18:55,Chennai,1 Stop,7h 30m,"10,315"
+1368,632,IndiGo,09:50,Kolkata,17:25,Chennai,1 Stop,7h 35m,"10,315"
+1369,633,IndiGo,07:25,Kolkata,13:55,Chennai,1 Stop,6h 30m,"10,315"
+1370,634,Go First,12:55,Kolkata,14:10,Bagdogra,Non Stop,1h 15m,"8,182"
+1371,635,SpiceJet,06:55,Kolkata,08:40,Bagdogra,Non Stop,1h 45m,"8,182"
+1372,636,Air Asia,08:45,Kolkata,09:50,Bagdogra,Non Stop,1h 05m,"8,182"
+1373,637,IndiGo,07:55,Kolkata,09:00,Bagdogra,Non Stop,1h 05m,"8,182"
+1374,638,Vistara,20:20,Kolkata,"10:00
++ 1 day",Bagdogra,1 Stop,13h 40m,"8,655"
+1375,639,Vistara,18:45,Kolkata,"10:00
++ 1 day",Bagdogra,1 Stop,15h 15m,"8,655"
+1376,640,Vistara,15:20,Kolkata,"10:00
++ 1 day",Bagdogra,1 Stop,18h 40m,"8,655"
+1377,641,Vistara,10:15,Kolkata,"10:00
++ 1 day",Bagdogra,1 Stop,23h 45m,"8,655"
+1378,642,Vistara,07:10,Kolkata,"10:00
++ 1 day",Bagdogra,1 Stop,26h 50m,"8,655"
+1379,643,Go First,16:50,Kolkata,23:25,Goa,1 Stop,6h 35m,"8,655"
+1380,644,Go First,04:55,Kolkata,16:35,Goa,1 Stop,11h 40m,"6,007"
+1381,645,Go First,04:55,Kolkata,17:45,Goa,1 Stop,12h 50m,"6,406"
+1382,646,Go First,16:50,Kolkata,"06:10
++ 1 day",Goa,1 Stop,13h 20m,"6,505"
+1383,647,Air Asia,08:30,Kolkata,14:15,Goa,1 Stop,5h 45m,"6,507"
+1384,648,Air Asia,08:45,Kolkata,17:35,Goa,1 Stop,8h 50m,"6,507"
+1385,649,Air Asia,07:30,Kolkata,18:45,Goa,1 Stop,11h 15m,"6,507"
+1386,650,Air Asia,07:30,Kolkata,19:20,Goa,1 Stop,11h 50m,"6,507"
+1387,651,Air Asia,15:50,Kolkata,"05:25
++ 1 day",Goa,1 Stop,13h 35m,"6,507"
+1388,652,Air Asia,14:40,Kolkata,"05:25
++ 1 day",Goa,1 Stop,14h 45m,"6,507"
+1389,653,Air India,19:00,Kolkata,21:15,Hyderabad,Non Stop,2h 15m,"6,507"
+1390,654,Go First,14:20,Kolkata,23:10,Hyderabad,1 Stop,8h 50m,"6,507"
+1391,655,Air Asia,07:30,Kolkata,09:50,Hyderabad,Non Stop,2h 20m,"6,507"
+1392,656,IndiGo,13:55,Kolkata,16:05,Hyderabad,Non Stop,2h 10m,"6,507"
+1393,657,IndiGo,05:25,Kolkata,07:40,Hyderabad,Non Stop,2h 15m,"6,507"
+1394,658,IndiGo,11:05,Kolkata,13:20,Hyderabad,Non Stop,2h 15m,"6,507"
+1395,659,IndiGo,17:25,Kolkata,19:40,Hyderabad,Non Stop,2h 15m,"7,456"
+1396,660,IndiGo,20:55,Kolkata,23:10,Hyderabad,Non Stop,2h 15m,"7,456"
+1397,661,IndiGo,23:15,Kolkata,"01:30
++ 1 day",Hyderabad,Non Stop,2h 15m,"7,456"
+1398,662,IndiGo,08:50,Kolkata,11:15,Hyderabad,Non Stop,2h 25m,"7,456"
+1399,663,IndiGo,17:10,Kolkata,22:25,Hyderabad,1 Stop,5h 15m,"7,456"
+1400,664,IndiGo,14:55,Kolkata,20:45,Hyderabad,1 Stop,5h 50m,"7,557"
+1401,665,IndiGo,07:05,Kolkata,13:00,Hyderabad,1 Stop,5h 55m,"7,605"
+1402,666,IndiGo,14:35,Kolkata,20:55,Hyderabad,1 Stop,6h 20m,"7,605"
+1403,667,IndiGo,04:45,Kolkata,11:20,Hyderabad,1 Stop,6h 35m,"7,605"
+1404,668,Go First,14:20,Kolkata,21:55,Pune,1 Stop,7h 35m,"7,605"
+1405,669,Go First,06:00,Kolkata,18:45,Pune,1 Stop,12h 45m,"7,605"
+1406,670,Go First,06:00,Kolkata,20:20,Pune,1 Stop,14h 20m,"7,605"
+1407,671,Go First,16:50,Kolkata,"08:25
++ 1 day",Pune,1 Stop,15h 35m,"7,605"
+1408,672,Go First,06:00,Kolkata,21:55,Pune,1 Stop,15h 55m,"7,770"
+1409,673,IndiGo,01:10,Kolkata,03:55,Pune,Non Stop,2h 45m,0
+1410,674,Air Asia,08:30,Kolkata,14:10,Pune,1 Stop,5h 40m,0
+1411,675,Air Asia,15:50,Kolkata,22:35,Pune,1 Stop,6h 45m,0
+1412,676,Air Asia,14:40,Kolkata,22:35,Pune,1 Stop,7h 55m,0
+1413,677,Air Asia,05:25,Kolkata,16:45,Pune,1 Stop,11h 20m,0
+1414,678,Air Asia,15:50,Kolkata,"05:00
++ 1 day",Pune,1 Stop,13h 10m,0
+1415,679,Air Asia,08:30,Kolkata,22:35,Pune,1 Stop,14h 05m,0
+1416,680,Air Asia,14:40,Kolkata,"05:00
++ 1 day",Pune,1 Stop,14h 20m,0
+1417,681,Go First,10:35,Kolkata,13:20,Pune,Non Stop,2h 45m,0
+1418,0,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2336
+1419,1,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1420,2,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2547
+1421,3,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1422,4,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2547
+1423,5,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2874
+1424,6,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2874
+1425,7,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2874
+1426,8,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2874
+1427,9,SPICEJET,06:00,Chennai,07:55,Mumbai,non-stop,1hr 55min,3100
+1428,10,SPICEJET,21:30,Chennai,23:40,Mumbai,non-stop,2hr 10min,3100
+1429,11,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3129
+1430,12,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,3366
+1431,13,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3366
+1432,14,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,3366
+1433,15,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3366
+1434,16,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,3398
+1435,17,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1436,18,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3946
+1437,19,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,4403
+1438,20,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,4403
+1439,21,AIR INDIA,16:10,Chennai,18:20,Mumbai,non-stop,2hr 10min,4909
+1440,22,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,5149
+1441,23,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,5573
+1442,24,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,6178
+1443,25,INDIGO,07:50,Chennai,14:20,Mumbai,1 stop,6hr 30min,5982
+1444,26,INDIGO,07:50,Chennai,12:05,Mumbai,1 stop,4hr 15min,6547
+1445,27,SPICEJET,19:05,Chennai,06:40,Mumbai,1 stop,11hr 35min,7303
+1446,28,SPICEJET,19:05,Chennai,23:50,Mumbai,1 stop,4hr 45min,7409
+1447,29,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7509
+1448,30,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2336
+1449,31,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1450,32,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2547
+1451,33,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1452,34,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2547
+1453,35,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2874
+1454,36,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2874
+1455,37,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2874
+1456,38,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2874
+1457,39,SPICEJET,06:00,Chennai,07:55,Mumbai,non-stop,1hr 55min,3100
+1458,40,SPICEJET,21:30,Chennai,23:40,Mumbai,non-stop,2hr 10min,3100
+1459,41,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3129
+1460,42,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,3366
+1461,43,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3366
+1462,44,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,3366
+1463,45,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3366
+1464,46,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,3398
+1465,47,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1466,48,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3946
+1467,49,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,4403
+1468,50,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,4403
+1469,51,AIR INDIA,16:10,Chennai,18:20,Mumbai,non-stop,2hr 10min,4909
+1470,52,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,5149
+1471,53,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,5573
+1472,54,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,6178
+1473,55,INDIGO,07:50,Chennai,14:20,Mumbai,1 stop,6hr 30min,5982
+1474,56,INDIGO,07:50,Chennai,12:05,Mumbai,1 stop,4hr 15min,6547
+1475,57,SPICEJET,19:05,Chennai,06:40,Mumbai,1 stop,11hr 35min,7303
+1476,58,SPICEJET,19:05,Chennai,23:50,Mumbai,1 stop,4hr 45min,7409
+1477,59,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7509
+1478,60,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2336
+1479,61,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1480,62,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2547
+1481,63,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1482,64,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2547
+1483,65,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2874
+1484,66,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2874
+1485,67,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2874
+1486,68,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2874
+1487,69,SPICEJET,06:00,Chennai,07:55,Mumbai,non-stop,1hr 55min,3100
+1488,70,SPICEJET,21:30,Chennai,23:40,Mumbai,non-stop,2hr 10min,3100
+1489,71,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3129
+1490,72,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,3366
+1491,73,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3366
+1492,74,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,3366
+1493,75,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3366
+1494,76,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,3398
+1495,77,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1496,78,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3946
+1497,79,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,4403
+1498,80,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,4403
+1499,81,AIR INDIA,16:10,Chennai,18:20,Mumbai,non-stop,2hr 10min,4909
+1500,82,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,5149
+1501,83,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,5573
+1502,84,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,6178
+1503,85,INDIGO,07:50,Chennai,14:20,Mumbai,1 stop,6hr 30min,5982
+1504,86,INDIGO,07:50,Chennai,12:05,Mumbai,1 stop,4hr 15min,6547
+1505,87,SPICEJET,19:05,Chennai,06:40,Mumbai,1 stop,11hr 35min,7303
+1506,88,SPICEJET,19:05,Chennai,23:50,Mumbai,1 stop,4hr 45min,7409
+1507,89,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7509
+1508,90,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2336
+1509,91,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1510,92,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2547
+1511,93,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1512,94,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2547
+1513,95,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2874
+1514,96,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2874
+1515,97,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2874
+1516,98,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2874
+1517,99,SPICEJET,06:00,Chennai,07:55,Mumbai,non-stop,1hr 55min,3100
+1518,100,SPICEJET,21:30,Chennai,23:40,Mumbai,non-stop,2hr 10min,3100
+1519,101,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3129
+1520,102,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,3366
+1521,103,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3366
+1522,104,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,3366
+1523,105,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3366
+1524,106,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,3398
+1525,107,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1526,108,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3946
+1527,109,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,4403
+1528,110,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,4403
+1529,111,AIR INDIA,16:10,Chennai,18:20,Mumbai,non-stop,2hr 10min,4909
+1530,112,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,5149
+1531,113,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,5573
+1532,114,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,6178
+1533,115,INDIGO,07:50,Chennai,14:20,Mumbai,1 stop,6hr 30min,5982
+1534,116,INDIGO,07:50,Chennai,12:05,Mumbai,1 stop,4hr 15min,6547
+1535,117,SPICEJET,19:05,Chennai,06:40,Mumbai,1 stop,11hr 35min,7303
+1536,118,SPICEJET,19:05,Chennai,23:50,Mumbai,1 stop,4hr 45min,7409
+1537,119,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7509
+1538,120,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2336
+1539,121,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1540,122,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2547
+1541,123,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1542,124,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2547
+1543,125,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2874
+1544,126,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2874
+1545,127,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2874
+1546,128,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2874
+1547,129,SPICEJET,06:00,Chennai,07:55,Mumbai,non-stop,1hr 55min,3100
+1548,130,SPICEJET,21:30,Chennai,23:40,Mumbai,non-stop,2hr 10min,3100
+1549,131,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3129
+1550,132,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,3366
+1551,133,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3366
+1552,134,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,3366
+1553,135,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3366
+1554,136,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,3398
+1555,137,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1556,138,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3946
+1557,139,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,4403
+1558,140,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,4403
+1559,141,AIR INDIA,16:10,Chennai,18:20,Mumbai,non-stop,2hr 10min,4909
+1560,142,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,5149
+1561,143,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,5573
+1562,144,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,6178
+1563,145,INDIGO,07:50,Chennai,14:20,Mumbai,1 stop,6hr 30min,5982
+1564,146,INDIGO,07:50,Chennai,12:05,Mumbai,1 stop,4hr 15min,6547
+1565,147,SPICEJET,19:05,Chennai,06:40,Mumbai,1 stop,11hr 35min,7303
+1566,148,SPICEJET,19:05,Chennai,23:50,Mumbai,1 stop,4hr 45min,7409
+1567,149,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7509
+1568,0,INDIGO,11:25,Chennai,13:20,Mumbai,non-stop,1hr 55min,3400
+1569,1,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1570,2,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3430
+1571,3,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3570
+1572,4,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3570
+1573,5,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,3902
+1574,6,AIR INDIA,15:25,Chennai,17:20,Mumbai,non-stop,1hr 55min,4069
+1575,7,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,4125
+1576,8,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,4546
+1577,9,INDIGO,11:15,Chennai,18:15,Mumbai,1 stop,7hr,5988
+1578,10,INDIGO,11:15,Chennai,16:50,Mumbai,1 stop,5hr 35min,6178
+1579,11,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,7088
+1580,12,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7308
+1581,13,INDIGO,19:15,Chennai,00:50,Mumbai,1 stop,5hr 35min,7308
+1582,14,INDIGO,17:00,Chennai,21:10,Mumbai,1 stop,4hr 10min,7781
+1583,15,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1584,16,SPICEJET,06:25,Chennai,08:20,Mumbai,non-stop,1hr 55min,2335
+1585,17,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2337
+1586,18,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2337
+1587,19,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2349
+1588,20,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2349
+1589,21,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2349
+1590,22,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2349
+1591,23,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,2911
+1592,24,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1593,25,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2910
+1594,26,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,2914
+1595,27,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3149
+1596,28,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,3400
+1597,29,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,3400
+1598,30,INDIGO,11:25,Chennai,13:20,Mumbai,non-stop,1hr 55min,3400
+1599,31,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1600,32,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3430
+1601,33,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3570
+1602,34,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3570
+1603,35,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,3902
+1604,36,AIR INDIA,15:25,Chennai,17:20,Mumbai,non-stop,1hr 55min,4069
+1605,37,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,4125
+1606,38,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,4546
+1607,39,INDIGO,11:15,Chennai,18:15,Mumbai,1 stop,7hr,5988
+1608,40,INDIGO,11:15,Chennai,16:50,Mumbai,1 stop,5hr 35min,6178
+1609,41,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,7088
+1610,42,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7308
+1611,43,INDIGO,19:15,Chennai,00:50,Mumbai,1 stop,5hr 35min,7308
+1612,44,INDIGO,17:00,Chennai,21:10,Mumbai,1 stop,4hr 10min,7781
+1613,45,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1614,46,SPICEJET,06:25,Chennai,08:20,Mumbai,non-stop,1hr 55min,2335
+1615,47,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2337
+1616,48,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2337
+1617,49,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2349
+1618,50,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2349
+1619,51,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2349
+1620,52,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2349
+1621,53,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,2911
+1622,54,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1623,55,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2910
+1624,56,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,2914
+1625,57,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3149
+1626,58,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,3400
+1627,59,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,3400
+1628,60,INDIGO,11:25,Chennai,13:20,Mumbai,non-stop,1hr 55min,3400
+1629,61,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1630,62,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3430
+1631,63,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3570
+1632,64,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3570
+1633,65,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,3902
+1634,66,AIR INDIA,15:25,Chennai,17:20,Mumbai,non-stop,1hr 55min,4069
+1635,67,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,4125
+1636,68,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,4546
+1637,69,INDIGO,11:15,Chennai,18:15,Mumbai,1 stop,7hr,5988
+1638,70,INDIGO,11:15,Chennai,16:50,Mumbai,1 stop,5hr 35min,6178
+1639,71,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,7088
+1640,72,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7308
+1641,73,INDIGO,19:15,Chennai,00:50,Mumbai,1 stop,5hr 35min,7308
+1642,74,INDIGO,17:00,Chennai,21:10,Mumbai,1 stop,4hr 10min,7781
+1643,75,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1644,76,SPICEJET,06:25,Chennai,08:20,Mumbai,non-stop,1hr 55min,2335
+1645,77,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2337
+1646,78,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2337
+1647,79,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2349
+1648,80,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2349
+1649,81,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2349
+1650,82,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2349
+1651,83,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,2911
+1652,84,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1653,85,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2910
+1654,86,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,2914
+1655,87,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3149
+1656,88,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,3400
+1657,89,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,3400
+1658,90,INDIGO,11:25,Chennai,13:20,Mumbai,non-stop,1hr 55min,3400
+1659,91,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1660,92,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3430
+1661,93,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3570
+1662,94,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3570
+1663,95,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,3902
+1664,96,AIR INDIA,15:25,Chennai,17:20,Mumbai,non-stop,1hr 55min,4069
+1665,97,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,4125
+1666,98,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,4546
+1667,99,INDIGO,11:15,Chennai,18:15,Mumbai,1 stop,7hr,5988
+1668,100,INDIGO,11:15,Chennai,16:50,Mumbai,1 stop,5hr 35min,6178
+1669,101,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,7088
+1670,102,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7308
+1671,103,INDIGO,19:15,Chennai,00:50,Mumbai,1 stop,5hr 35min,7308
+1672,104,INDIGO,17:00,Chennai,21:10,Mumbai,1 stop,4hr 10min,7781
+1673,105,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1674,106,SPICEJET,06:25,Chennai,08:20,Mumbai,non-stop,1hr 55min,2335
+1675,107,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2337
+1676,108,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2337
+1677,109,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2349
+1678,110,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2349
+1679,111,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2349
+1680,112,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2349
+1681,113,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,2911
+1682,114,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1683,115,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2910
+1684,116,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,2914
+1685,117,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3149
+1686,118,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,3400
+1687,119,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,3400
+1688,120,INDIGO,11:25,Chennai,13:20,Mumbai,non-stop,1hr 55min,3400
+1689,121,INDIGO,21:05,Chennai,23:05,Mumbai,non-stop,2hr,3400
+1690,122,INDIGO,12:55,Chennai,14:50,Mumbai,non-stop,1hr 55min,3430
+1691,123,AIRASIA INDIA,12:55,Chennai,21:00,Mumbai,1 stop,8hr 5min,3570
+1692,124,AIRASIA INDIA,12:55,Chennai,00:40,Mumbai,1 stop,11hr 45min,3570
+1693,125,INDIGO,18:10,Chennai,20:10,Mumbai,non-stop,2hr,3902
+1694,126,AIR INDIA,15:25,Chennai,17:20,Mumbai,non-stop,1hr 55min,4069
+1695,127,AIRASIA INDIA,06:55,Chennai,19:00,Mumbai,1 stop,12hr 5min,4125
+1696,128,AIRASIA INDIA,12:55,Chennai,19:00,Mumbai,1 stop,6hr 5min,4546
+1697,129,INDIGO,11:15,Chennai,18:15,Mumbai,1 stop,7hr,5988
+1698,130,INDIGO,11:15,Chennai,16:50,Mumbai,1 stop,5hr 35min,6178
+1699,131,INDIGO,12:50,Chennai,18:15,Mumbai,1 stop,5hr 25min,7088
+1700,132,INDIGO,19:15,Chennai,23:25,Mumbai,1 stop,4hr 10min,7308
+1701,133,INDIGO,19:15,Chennai,00:50,Mumbai,1 stop,5hr 35min,7308
+1702,134,INDIGO,17:00,Chennai,21:10,Mumbai,1 stop,4hr 10min,7781
+1703,135,AKASA AIR,10:30,Chennai,12:35,Mumbai,non-stop,2hr 5min,2336
+1704,136,SPICEJET,06:25,Chennai,08:20,Mumbai,non-stop,1hr 55min,2335
+1705,137,AIR INDIA,06:10,Chennai,08:10,Mumbai,non-stop,2hr,2337
+1706,138,AIR INDIA,21:40,Chennai,23:50,Mumbai,non-stop,2hr 10min,2337
+1707,139,VISTARA,09:45,Chennai,11:40,Mumbai,non-stop,1hr 55min,2349
+1708,140,VISTARA,07:00,Chennai,09:00,Mumbai,non-stop,2hr,2349
+1709,141,VISTARA,12:30,Chennai,14:30,Mumbai,non-stop,2hr,2349
+1710,142,VISTARA,20:30,Chennai,22:35,Mumbai,non-stop,2hr 5min,2349
+1711,143,GO FIRST,13:45,Chennai,15:40,Mumbai,non-stop,1hr 55min,2911
+1712,144,AIR INDIA,07:55,Chennai,10:00,Mumbai,non-stop,2hr 5min,2547
+1713,145,AKASA AIR,20:50,Chennai,22:50,Mumbai,non-stop,2hr,2910
+1714,146,INDIGO,22:25,Chennai,00:20,Mumbai,non-stop,1hr 55min,2914
+1715,147,AIRASIA INDIA,06:55,Chennai,21:00,Mumbai,1 stop,14hr 5min,3149
+1716,148,INDIGO,08:30,Chennai,10:20,Mumbai,non-stop,1hr 50min,3400
+1717,149,INDIGO,20:00,Chennai,21:55,Mumbai,non-stop,1hr 55min,3400
